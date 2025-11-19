@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1-56gnW586aluP0SgnoHPew3agymlze47
 
+**Live Demo:** https://averybee24601.github.io/Evidence/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
@@ -18,3 +20,22 @@ View your app in AI Studio: https://ai.studio/apps/drive/1-56gnW586aluP0SgnoHPew
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Build for Production
+
+1. Build the app:
+   `npm run build`
+2. Preview the production build:
+   `npm run preview`
+
+## Deploy to GitHub Pages
+
+This repository is configured to automatically deploy to GitHub Pages on every push to the `main` branch using GitHub Actions.
+
+**Deployment URL:** https://averybee24601.github.io/Evidence/
+
+To enable GitHub Pages:
+1. Go to your repository Settings → Pages
+2. Under "Build and deployment", select "GitHub Actions" as the source
+3. Push your changes to the `main` branch
+4. The GitHub Actions workflow will automatically build and deploy your app

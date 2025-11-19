@@ -8,6 +8,7 @@ export default defineConfig(({ mode }) => {
     const googleApiKey = env.GEMINI_API_KEY || env.GOOGLE_API_KEY || env.API_KEY;
 
     return {
+      base: '/Evidence/', // Set base path for GitHub Pages
       server: {
         port: 3000,
         host: '0.0.0.0',
