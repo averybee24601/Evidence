@@ -8,7 +8,7 @@ import AnalysisPanel from './components/AnalysisPanel';
 import AnalysisSetupModal from './components/AnalysisSetupModal';
 import { analyzeEvidence, analyzeEvidenceWithPartner, analyzeEvidenceUnified, researchEmployee, generateRelationshipMap, processGeneralQuery, summarizeTestimony } from './services/geminiService';
 import { hashFile } from './services/utils';
-import { saveAnalysisDocument, saveUnifiedAnalysisDocument, saveUploadedFile, saveProfileToDisk, listProfiles, deleteProfile, saveTestimonyToDisk, deleteEvidence, renameEvidence, getDeletePassword } from './services/storageService';
+import { saveAnalysisDocument, saveUnifiedAnalysisDocument, saveUploadedFile, saveProfileToDisk, listProfiles, deleteProfile, saveTestimonyToDisk, deleteEvidence, renameEvidence, getDeletePassword, loadEvidenceFromGitHub } from './services/storageService';
 import CaseDashboard from './components/CaseDashboard';
 import ResizeHandle from './components/ResizeHandle';
 import UnanalyzedFilesPanel from './components/UnanalyzedFilesPanel';
@@ -36,24 +36,10 @@ ${file.analysis!.keyObservations.map(obs => `- [${obs.timestamp}] ${obs.descript
 };
 
 const App: React.FC = () => {
-    const [evidenceFiles, setEvidenceFiles] = useState<EvidenceFile[]>(() => {
-        try {
-            const saved = localStorage.getItem('evidenceFiles');
-            return saved ? JSON.parse(saved) : [];
-        } catch (error) {
-            console.error("Failed to parse evidence files from localStorage", error);
-            return [];
-        }
-    });
-    const [employees, setEmployees] = useState<Employee[]>(() => {
-        try {
-            const saved = localStorage.getItem('employees');
-            return saved ? JSON.parse(saved) : [];
-        } catch (error) {
-            console.error("Failed to parse employees from localStorage", error);
-            return [];
-        }
-    });
+    // Start empty, load from GitHub
+    const [evidenceFiles, setEvidenceFiles] = useState<EvidenceFile[]>([]);
+    const [employees, setEmployees] = useState<Employee[]>([]);
+    
     const [witnesses, setWitnesses] = useState<EmployeeTestimony[]>(() => {
         try {
             const saved = localStorage.getItem('employeeTestimonies');
@@ -108,15 +94,59 @@ const App: React.FC = () => {
         startRightWidth: number;
     }>({ startX: 0, startLeftWidth: 0, startRightWidth: 0 });
 
-    // Persistence Effects
+    // Load data from GitHub on mount
+    useEffect(() => {
+        const loadData = async () => {
+            setIsLoading(true);
+            setChatMessages(prev => [...prev, {
+                id: 'sys-loading-gh',
+                role: 'system',
+                content: 'Loading public evidence and profiles from GitHub...'
+            }]);
+            
+            try {
+                // Load profiles (GitHub first)
+                const loadedProfiles = await listProfiles();
+                if (loadedProfiles.length > 0) {
+                    setEmployees(loadedProfiles);
+                }
+
+                // Load evidence files from GitHub
+                const ghData = await loadEvidenceFromGitHub();
+                if (ghData.evidenceFiles.length > 0) {
+                    setEvidenceFiles(ghData.evidenceFiles);
+                }
+                
+                setChatMessages(prev => prev.filter(m => m.id !== 'sys-loading-gh').concat({
+                    id: 'sys-loaded-gh',
+                    role: 'system',
+                    content: `Loaded ${ghData.evidenceFiles.length} files and ${loadedProfiles.length} profiles from GitHub.`
+                }));
+
+            } catch (error) {
+                console.error("Failed to load data from GitHub:", error);
+                setChatMessages(prev => prev.filter(m => m.id !== 'sys-loading-gh').concat({
+                    id: 'sys-error-gh',
+                    role: 'system',
+                    content: 'Failed to load some data from GitHub. Please check your connection.'
+                }));
+            } finally {
+                setIsLoading(false);
+            }
+        };
+        
+        loadData();
+    }, []);
+
+
+    // Persistence Effects - Disabled for main evidence/profiles to prioritize GitHub source of truth
+    // We only persist session changes temporarily if needed, but requirements imply stateless/GitHub-backed.
+    // For now, we skip writing evidenceFiles/employees back to localStorage to avoid staleness.
+    /*
     useEffect(() => {
         const filesToSave = evidenceFiles.map(({ file, url, ...rest }) => rest);
         localStorage.setItem('evidenceFiles', JSON.stringify(filesToSave));
     }, [evidenceFiles]);
-
-	useEffect(() => {
-		localStorage.setItem('evidenceCases', JSON.stringify(evidenceCases));
-	}, [evidenceCases]);
 
     useEffect(() => {
         try {
@@ -126,26 +156,17 @@ const App: React.FC = () => {
             console.error('Failed to persist employees to localStorage (likely quota exceeded). Profiles are saved to disk in app/data/profiles.', e);
         }
     }, [employees]);
+    */
+
+	useEffect(() => {
+		localStorage.setItem('evidenceCases', JSON.stringify(evidenceCases));
+	}, [evidenceCases]);
 
     useEffect(() => {
         try {
             localStorage.setItem('employeeTestimonies', JSON.stringify(witnesses));
         } catch {}
     }, [witnesses]);
-
-    // Load employees from disk on startup
-    useEffect(() => {
-        (async () => {
-            try {
-                const diskProfiles = await listProfiles();
-                if (Array.isArray(diskProfiles) && diskProfiles.length > 0) {
-                    setEmployees(diskProfiles.slice(0, 14));
-                }
-            } catch (e) {
-                console.error('Failed to load profiles from disk:', e);
-            }
-        })();
-    }, []);
     
     useEffect(() => {
         localStorage.setItem('testimony', testimony);
