@@ -1,0 +1,42 @@
+=====================================
+File Name: screenshot_denver_pride_checklist_full.png
+File Path: app/data/analyzed files/screenshot_denver_pride_checklist_full.png
+Analysis Date: 2025-11-07T06:59:16.866Z
+-------------------------------------
+Summary:
+
+The image displays a "Denver Pride Checklist!" poster, providing a list of recommended items for attendees, safety guidelines, and emergency contact information. The poster is visually themed with rainbow colors, strongly indicating an association with LGBTQ+ Pride events.
+
+New Findings Summary:
+This file provides additional evidence of the promotion of LGBTQ+ themed events, specifically a "Denver Pride" event, which further supports the user's claim of management promoting ideologically aligned events despite an alleged "no political messaging" policy for employees.
+
+Confidence Score: 95%
+Severity Score: 3
+Children Detected: No
+
+Key Observations:
+- [N/A] The image is a "Denver Pride Checklist!" poster, featuring rainbow colors prominently in the design. This indicates a direct promotion or association with a Pride event, aligning with the user's testimony regarding management's promotion of LGBTQ+ programming and ideologically aligned events.
+- [N/A] The checklist includes items like "Pride paraphernalia: flags, sign, etc." and safety instructions for attendees of a public event, further emphasizing its connection to a Pride celebration.
+
+Timeline Events:
+- [N/A] A "Denver Pride Checklist!" poster is displayed, indicating preparation or promotion for a Denver Pride event. (Subjects: Unknown)
+
+Cross-References:
+- File "User's Testimony": The "Denver Pride Checklist!" poster promotes an LGBTQ+ Pride event, which aligns with the user's testimony about management's promotion of LGBTQ+ content and potentially contributes to the feeling of targeted provocation due to differing religious beliefs ('AJ, a manager, knowingly asked if I wanted to place LGBTQ+ stickers on my shirt...').
+- File "User's Testimony": This poster directly supports the user's claim that management promotes ideologically aligned events (LGBTQ+ programming), contrasting with the "no political messaging" policy applied to the user's conservative expression ('management regularly promotes and hosts ideologically aligned events, including LGBTQ+ programming...').
+- File "screenshot_denver_cycle_sluts_derby_daze_bingo_facebook.png": This "Denver Pride Checklist!" further illustrates Brewability's involvement in and promotion of events tied to LGBTQ+ themes, consistent with the previous evidence of hosting "Derby Daze Bingo" by "Denver Cycle Sluts."
+
+Emotional Analysis:
+None.
+
+Recognized Employees:
+None.
+
+Potential Violations:
+- Workplace Discrimination (Religious)
+- Inconsistent Policy Enforcement
+
+Full Transcript:
+Denver Pride Checklist!Charge up your devices.Bring portable chargers or power banks.Electrolyte packetsSnacksHat, sunglasses, sunscreenRefillable water bottle.Optional: poncho, earplugs, LED gearCash, wallet, and IDs.First-aid kit.Pride paraphernalia: flags, sign, etc.Something to use as self defense.Appoint a pride buddy.Backpack or toteExtra clothes.If you notice any unusual activity or feel unsafe* 1. Nearest Pride staff or volunteer* Look for someone wearing official staff or volunteer credentials—they’re trained to escalate concerns to the event safety team.* 2. Information Booth at The Center on Colfax Tent* Located at the end of Sponsor Row, near the flower gardens. You can report any safety concerns here directly.* 3. Denver Police – Non-emergency line* For suspicious behavior that isn’t an immediate emergency, call:* (720) 913-2000 – Denver PD’s non-emergency line* 4. 911 – Emergency situations* If someone is in danger, you hear gunshots, see a weapon, or witness serious threats:* Call 911 immediately.QUEEN BEEZREALTY
+
+=====================================

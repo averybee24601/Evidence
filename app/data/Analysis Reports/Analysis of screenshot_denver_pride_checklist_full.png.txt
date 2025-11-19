@@ -1,0 +1,43 @@
+=====================================
+File Name: screenshot_denver_pride_checklist_full.png
+File Path: app/data/analyzed files/screenshot_denver_pride_checklist_full.png
+Analysis Date: 2025-11-07T06:58:40.063Z
+-------------------------------------
+Summary:
+
+This image displays a 'Denver Pride Checklist!' document, offering guidance and safety information for attendees of a Pride event. The checklist includes items to bring, safety instructions, and emergency contact details. The document is branded by 'QUEEN BEEZ REALTY' at the bottom.
+
+New Findings Summary:
+This file presents a general Denver Pride event checklist. While the document itself does not explicitly mention Brewability, its context, if promoted by Brewability, would support the user's testimony regarding management's selective promotion of ideologically aligned external events.
+
+Confidence Score: 95%
+Severity Score: 1
+Children Detected: No
+
+Key Observations:
+- [N/A] The document is titled 'Denver Pride Checklist!' and features rainbow-themed graphics.
+- [N/A] The checklist advises attendees to bring practical items such as portable chargers, snacks, and a refillable water bottle, as well as 'Pride paraphernalia: flags, sign, etc.' and 'Something to use as self defense'.
+- [N/A] The document provides safety instructions, including who to contact if 'unusual activity' or feeling 'unsafe,' listing 'Nearest Pride staff or volunteer,' 'Information Booth at The Center on Colfax Tent,' 'Denver Police – Non-emergency line,' and '911 – Emergency situations'.
+- [N/A] The bottom of the document displays the branding 'QUEEN BEEZ REALTY' with a bee logo, indicating the creator or sponsor of the checklist.
+
+Timeline Events:
+- [N/A] A 'Denver Pride Checklist!' document, including safety guidelines and recommended items, was created and branded by 'QUEEN BEEZ REALTY'. (Subjects: Unknown)
+
+Cross-References:
+- File "User's Testimony": The content of this 'Denver Pride Checklist!' aligns with the user's testimony about Brewability management's regular promotion of 'ideologically aligned events, including LGBTQ+ programming such despite prohibiting any expression perceived as conservative.' If Brewability promoted this specific external event, it would corroborate the claim of inconsistent application of a 'no politics' policy.
+- File "screenshot_denver_cycle_sluts_derby_daze_bingo_facebook.png": This 'Denver Pride Checklist!' reinforces the pattern seen in the 'Derby Daze Bingo' post, where Brewability & Pizzability hosted an event by 'Denver Cycle Sluts' for '21+' audiences, indicating a pattern of association with and promotion of LGBTQ+ themed events or content.
+
+Emotional Analysis:
+None.
+
+Recognized Employees:
+None.
+
+Potential Violations:
+- Inconsistent Enforcement of Workplace Policies
+- Religious/Political Discrimination
+
+Full Transcript:
+Denver Pride Checklist!Charge up your devices.Bring portable chargers or power banks.Electrolyte packetsSnacksHat, sunglasses, sunscreenRefillable water bottle.Optional: poncho, earplugs, LED gearCash, wallet, and IDs.First-aid kit.Pride paraphernalia: flags, sign, etc.Something to use as self defense.Appoint a pride buddy.Backpack or toteExtra clothes.If you notice any unusual activity or feel unsafe1. Nearest Pride staff or volunteerLook for someone wearing official staff or volunteer credentials—they're trained to escalate concerns to the event safety team.2. Information Booth at The Center on Colfax TentLocated at the end of Sponsor Row, near the flower gardens. You can report any safety concerns here directly.3. Denver Police – Non-emergency lineFor suspicious behavior that isn’t an immediate emergency, call:(720) 913-2000 – Denver PD’s non-emergency line4. 911 – Emergency situationsIf someone is in danger, you hear gunshots, see a weapon, or witness serious threats:Call 911 immediately.QUEEN BEEZ REALTY
+
+=====================================

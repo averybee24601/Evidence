@@ -1,0 +1,96 @@
+=====================================
+Files: promotion of inappropriate holiday parties around adults with disabilities.png + ignores concerns.png + promotion of lgbtq propoganda.png + manipulating people into drag shows with charity fundraisers.png + popup queen.png
+File Paths:
+- [1] app/data/analyzed files/promotion of inappropriate holiday parties around adults with disabilities.png
+- [2] app/data/analyzed files/ignores concerns.png
+- [3] app/data/analyzed files/promotion of lgbtq propoganda.png
+- [4] app/data/analyzed files/manipulating people into drag shows with charity fundraisers.png
+- [5] app/data/analyzed files/popup queen.png
+Analysis Date: 2025-11-16T02:10:00.723Z
+-------------------------------------
+Summary:
+
+Brewability & Pizzability, while advertising as a family-friendly establishment that employs adults with disabilities, appears to promote and host sexually explicit, adult-oriented, and politically charged events. This behavior allegedly includes coercing a disabled employee, Jose, into sexualized performances, allowing children at inappropriate events, promoting partisan political ideologies, and retaliating against employees who raise concerns or do not conform. The owner, Tiffany Fixter, is also accused of severe intoxication at work, financial misconduct, and illegal distribution of alcohol and marijuana, creating a hostile and exploitative environment for vulnerable staff.
+
+New Findings Summary:
+The new image files provide direct evidence of Brewability promoting 'Sexy Santa' events, explicitly LGBTQ+ events, and linking to 'Denver Cycle Sluts,' an organization accused by a customer of mocking disabilities and causing harm, further substantiating claims of a hostile and inconsistent workplace environment.
+
+Confidence Score: 98%
+Severity Score: 10
+Children Detected: Yes
+
+Key Observations:
+- [N/A] Brewability & Pizzability promoted a 'Custom Christmas Cans w/ SEXY SANTA & SEXY MISS CLAUS' event for December 17, 2022, featuring a shirtless male in a Santa hat and a large red bow covering his lower torso.
+- [N/A] A customer review from 'Xtian Gtz' states, 'I DO NOT recommend Brewability & Pizzability. This venue chooses to host the Cycle Sluts, a group that includes members who mocked my disability and contributed to the harm I've experienced.'
+- [N/A] The 'Xtian Gtz' review mentions that 'these same people are tied to ICRME, an organization that has caused me significant harm and has spent months minimizing, rebranding, and covering up what happened instead of taking accountability.'
+- [N/A] Brewability & Pizzability posted an invitation for an 'LGBTQ+ and Ally Mixer' on November 15 (unspecified year) to 'honor and celebrate the trans and nonbinary folks' and featuring 'local organizations and talented #trans and #nonbinary #Denverartists'.
+- [N/A] Brewability & Pizzability posted a video on November 13 (unspecified year) featuring the 'DENVER CYCLE SLUTS' logo, associated with 'Glitter Goddesses dba DCS'.
+- [N/A] Brewability posted an image on June 19 (unspecified year) of two drag performers in elaborate outfits, promoting 'thepiequeenofdenver' and 'Lavinia' for a 'Denver Pride' event, noting they have performed at 'Denver Pridefest' and 'Stonewall Inn'.
+
+Timeline Events:
+- [17 December 2022] Brewability & Pizzability promoted a 'Custom Christmas Cans w/ SEXY SANTA & SEXY MISS CLAUS' event. (Subjects: Unknown)
+- [June 19, 2024] Brewability promoted drag performers 'thepiequeenofdenver' and 'Lavinia' for a 'Denver Pride' event. (Subjects: Unknown)
+- [November 13 (unspecified year)] Brewability posted a video featuring the 'DENVER CYCLE SLUTS' logo. (Subjects: Unknown)
+- [November 15 (unspecified year)] Brewability promoted an 'LGBTQ+ and Ally Mixer'. (Subjects: Unknown)
+- [N/A] A customer, Xtian Gtz, posted a negative review accusing Brewability of hosting a group ('Cycle Sluts') that mocked their disability and contributed to harm. (Subjects: Xtian Gtz, Avery Becker)
+- [00:00:06] Employee Jorge states a strawberry daiquiri is made 'with rum'. (Subjects: Jorge)
+- [00:00:05] Jose removes his jacket to reveal a padded muscle shirt. (Subjects: Jose)
+- [00:00:15] Jose performs pelvic thrusting motions behind a seated individual. (Subjects: Jose)
+- [00:01:09] Tiffany Fixter mentions an expected visitor, an actress with Down syndrome, who she believes is 'like 13 or 15'. (Subjects: Tiffany Fixter)
+- [00:01:15] Avery Becker confirms the visitor's age as 16. (Subjects: Avery Becker)
+- [00:01:17] Tiffany Fixter instructs to ensure 'Jose does not dance ON her'. (Subjects: Tiffany Fixter, Jose)
+- [00:01:21] Tiffany Fixter clarifies, 'he can dance for her, but not on her'. (Subjects: Tiffany Fixter, Jose)
+- [00:00:48] Tiffany Fixter makes a statement off-camera: 'We’re ready to go, we will stab any one of you'. (Subjects: Tiffany Fixter)
+- [00:01:21] Employee Jose performs a lap dance-style routine on a seated woman in a promotional video. (Subjects: Jose)
+- [00:01:24] A woman is shown dancing on top of the bar while patrons put money into her shorts. (Subjects: Unknown)
+- [00:01:26] A child is visibly present in the establishment during bar-top dancing. (Subjects: Unknown)
+- [00:01:28] Tiffany Fixter's voice is heard stating, 'Because his party went over, half his people left, and his church is really angry and we’ve embarrassed his family'. (Subjects: Tiffany Fixter)
+- [00:01:36] Employee Jacob states, 'There’s always got to be a good guy, and there’s always got to be a villain, a bad guy'. (Subjects: Jacob)
+- [00:01:42] Employee Aaron states, 'I wonder if I’m going to have a job pretty soon'. (Subjects: Aaron)
+- [00:02:11] Employees Jose and Rachel are shown in a wrestling ring, with Jose prompted to express romantic feelings. (Subjects: Jose, Rachel)
+- [00:01:38] Tiffany Fixter speaks with noticeably slurred speech during an interview. (Subjects: Tiffany Fixter)
+- [00:02:18] Tiffany Fixter mispronounces 'Pizzability' as 'Predictability'. (Subjects: Tiffany Fixter)
+
+Cross-References:
+- File "promotion of inappropriate holiday parties around adults with disabilities.png": The promotion of 'Sexy Santa & Sexy Ms. Claus' events aligns with the user's testimony regarding sexually explicit conduct during events and the establishment's inconsistent 'family-friendly' advertising.
+- File "ignores concerns.png": The customer review explicitly naming 'Cycle Sluts' as a group that mocked disability and caused harm directly supports the user's testimony about this group's activities and Brewability's promotion of them, as well as the 'hostile environment' claim. This also directly connects to 'screenshot_denver_cycle_sluts_derby_daze_bingo_facebook.png' where 'Denver Cycle Sluts' is a host.
+- File "promotion of lgbtq propoganda.png": This post promoting an 'LGBTQ+ and Ally Mixer' corroborates the user's testimony regarding management's regular promotion of 'ideologically aligned events' and 'LGBTQ+ programming' despite a 'no politics' rule for employees, and connects to 'screenshot_denver_pride_checklist_full.png'.
+- File "manipulating people into drag shows with charity fundraisers.png": The post featuring the 'DENVER CYCLE SLUTS' logo (dba 'Glitter Goddesses DCS') provides further evidence of Brewability's association with this group, reinforcing the customer's negative review in 'ignores concerns.png' and the user's testimony about inappropriate events and alleged manipulation.
+- File "popup queen.png": The promotion of 'Denver Pride' events with drag performers aligns with the user's testimony about management's promotion of LGBTQ+ programming and drag events, which the user stated initially included minors and featured sexually explicit content and prizes.
+- File "Magic mike Jose.mp4": The explicit depiction of Jose performing a 'Magic Mike' style routine for a seated woman reinforces the user's testimony about Jose being coerced into sexually suggestive dances against his will, further corroborated by 'photo_person_sitting_on_person_brewability_stage.png' and 'photo_three_people_holiday_costumes_suggestive.png'.
+- File "AQPB6JJPK9NNMEUIOSbPAFG2lbQBwOBsUVCLC6K581gVlL6M3eCuEqXJ0AybMRpv4DnZQPcZHQp0__Ez4HqrD64.mp4": Jorge's statement about a daiquiri 'with rum' directly supports the user's testimony regarding illegal service of hard liquor without a proper license.
+- File "YTDown.com_YouTube_A-Special-Place-for-a-Slice-and-a-Beer_Media_pj8IDcH_blA_001_1080p.mp4": Tiffany Fixter's slurred speech and mispronunciation of her business's name in this promotional video corroborate the user's testimony about her severe intoxication at work and impairment during business operations.
+- File "video_unauthorized_youtube_footage.mp4": This video shows Jose performing a lap dance and a woman dancing on the bar, with a child present, directly supporting the user's testimony about sexually explicit conduct during a religious event and the presence of children, and the unauthorized filming and public misrepresentation to portray the user and his community negatively for objecting.
+- File "Retaliatory hours cut due to refusal to ban caregiver - Copy.jpg": This text message exchange directly confirms the user's testimony of being given an ultimatum by Tiffany regarding his caregiver's presence and the subsequent reduction in his work hours, demonstrating retaliation.
+
+Emotional Analysis:
+- Distress: User felt 'directly targeted' and 'public embarrassment' from management's actions, and 'acute distress and vulnerability' due to intoxicated management.
+- Discomfort: Jose's 'visible discomfort and repeated statements' about performing sexualized routines, and user's 'emotional manipulation' by Tiffany.
+- Hostility: Morgan's comment 'This is why I hate Christians', the negative customer review from 'Xtian Gtz' describing a 'hostile' environment for disabled guests, and the user's feeling of being in an 'environment that is hostile toward employees of faith'.
+- Fear: User felt 'unable to leave' due to concern for intoxicated management's safety, and perceived 'veiled threat of future termination' from Tiffany's ultimatum.
+- Shame: User described a meeting 'intended to shame me' and 'public shaming' in front of customers.
+- Powerlessness: Juliana's testimony states Tiffany 'belittles them. She makes them feel powerless and worthless'.
+- Anger: Tiffany became 'visibly angry' when confronted about the caregiver ban.
+
+Recognized Employees:
+- Avery Becker (at N/A) - 95%
+
+Potential Violations:
+- Workplace Discrimination (Religious, Political, Disability)
+- Hostile Work Environment
+- Retaliation
+- Exploitation of Vulnerable Adults
+- Child Endangerment
+- Public Misrepresentation/Defamation
+- Failure of Duty of Care
+- Wage Theft/Misappropriation of Funds (COVID relief)
+- Alcohol Licensing Violations (Illegal service of hard liquor/wine)
+- Illegal Storage and Consumption of Hard Liquor in Work Areas
+- Illegal Drug Distribution (Marijuana)
+- Unsafe Working Conditions
+- Ethical Violations
+
+Full Transcript:
+Brewability & Pizzability - Follow 17 December 2022 Sexy Santa and Sexy Ms. Claus tonight!!! Please join us! Jennifer Dixon Trio @Brewability 6-9 PM! Custom Christmas Cans w/ SEXY SANTA & SEXY MISS CLAUS Sat, 17 Dec 2022 Custom Christmas Cans w/ SEXY SANTA & SEXY MISS CLAUS Englewood Kristen was interested 8 2 comments Like Comment Share -- Xtian Gtz doesn't recommend Brewability & Pizzability. 13h I DO NOT recommend Brewability & Pizzability. This venue chooses to host the Cycle Sluts, a group that includes members who mocked my disability and contributed to the harm I've experienced. As a deaf customer, I deserve safety, respect, and accessibility, not to walk into a place that platforms people who ridicule and target disabled individuals. On top of that, these same people are tied to ICRME, an organization that has caused me significant harm and has spent months minimizing, rebranding, and covering up what happened instead of taking accountability. Brewability & Pizzability continues to host and uplift the very individuals who were involved in that harm, which makes this space feel unsafe for disabled guests and survivors who just want to enjoy their night without being retraumatized. Until they stop giving a stage to people who discriminate, mock disabilities, and brush off real harm, I cannot support this establishment. DO NOT support this establishment. Like Comment Share Comment as Avery Becker -- brew_ability Join us at Brewability (3445 S Broadway, Englewood, CO 80113) on Nov. 15 from 6-9 PM for an LGBTQ+ and Ally Mixer! Let's come together to honor and celebrate the trans and nonbinary folks in our lives and the incredible contributions they make to our community. We'll be featuring local organizations and talented #trans and #nonbinary #Denverartists so bring some cash to support their work! Pop-up #artists include: @subversivewreaths @fortalezafamiliarco @joyasresistanceco Enjoy an evening filled with connection and conversation as we uplift each other in a welcoming atmosphere. Bring your friends, share your stories, and help us create a space of love and support. We can't wait to see you there! Music by @fearlesstone plus we are celebrating 3 birthdays! Join us for a fun night! 52w --- downtownenglewoodco 52w 2 likes Reply --- samandhope Ugh my struggle! It's Caleb's opening night. Sending love wish we could be there. 52w 3 likes Reply 4 comments from Facebook liked by janelgraven and 151 others November 15, 2024 -- Brewability & Pizzability 13 November at 22:12. Glitter Goddesses dba DCS - Follow 11 Nov Whoomp! There It Is 1 comment Janel Graven and 5 others -- brew_ability Join thepiequeenofdenver #Chocolatina and #Lavinia tonight at #Brewability from 7-9! They have been performing together for over 15 years at legendary NYC venues including Stonewall Inn, The Duplex and various cabaret rooms. They have also been on the mainstage at Denver Pridefest the past few years. This dynamic duo is sure to get the party started with their singing, dancing and kooky antics! @denverpride #DenverPride liked by janelgraven and 35 others June 19, 2024
+
+=====================================

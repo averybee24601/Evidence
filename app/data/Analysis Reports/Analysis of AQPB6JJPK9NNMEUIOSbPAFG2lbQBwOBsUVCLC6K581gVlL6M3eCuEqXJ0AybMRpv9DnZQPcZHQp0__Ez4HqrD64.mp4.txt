@@ -1,0 +1,43 @@
+=====================================
+File Name: AQPB6JJPK9NNMEUIOSbPAFG2lbQBwOBsUVCLC6K581gVlL6M3eCuEqXJ0AybMRpv9DnZQPcZHQp0__Ez4HqrD64.mp4
+File Path: app/data/analyzed files/AQPB6JJPK9NNMEUIOSbPAFG2lbQBwOBsUVCLC6K581gVlL6M3eCuEqXJ0AybMRpv9DnZQPcZHQp0__Ez4HqrD64.mp4
+Analysis Date: 2025-11-07T06:31:05.910Z
+-------------------------------------
+Summary:
+
+This short video features an employee, identified as Jorge, presenting several food items and a frozen beverage from behind a bar. While describing a strawberry daiquiri, Jorge explicitly states that it is made "with rum." The employee appears enthusiastic and is speaking in a promotional context.
+
+New Findings Summary:
+This file provides direct, on-camera corroboration from an employee (Jorge) that the establishment serves hard liquor (rum), which aligns with the user's testimony regarding illegal alcohol service.
+
+Confidence Score: 98%
+Severity Score: 7
+Children Detected: No
+
+Key Observations:
+- [00:00:06] While presenting a red, frozen drink, the employee Jorge states it is a "strawberry daiquiri with rum." This statement corroborates the user's testimony alleging that the establishment serves hard liquor without the proper license.
+
+Timeline Events:
+- [00:00:01] Jorge presents a caprese salad to the camera. (Subjects: Jorge)
+- [00:00:04] Jorge presents skewers on a plate. (Subjects: Jorge)
+- [00:00:06] Jorge presents a strawberry daiquiri and states it contains rum. (Subjects: Jorge)
+- [00:00:09] Jorge presents a salad with strawberry vinaigrette. (Subjects: Jorge)
+- [00:00:13] Jorge invites viewers to visit the establishment. (Subjects: Jorge)
+
+Cross-References:
+- File "User Testimony": Jorge's statement at 00:00:06 that a daiquiri is made "with rum" directly corroborates the user's detailed allegation under 'Alcohol Licensing Violations: Illegal Service of Hard Liquor and Wine,' which claims management spikes slushie drinks with hard liquor despite not having the appropriate license.
+
+Emotional Analysis:
+- Enthusiasm: Throughout the video, Jorge speaks in an upbeat, cheerful tone and smiles, consistent with a promotional video.
+
+Recognized Employees:
+- Jorge (at 00:00:00) - 98%
+
+Potential Violations:
+- Illegal Service of Unlicensed Alcohol
+- Workplace Safety Violations
+
+Full Transcript:
+Hi everybody! We got the Caprese salad. We got the skewers. We got the... strawberry daiquiri with rum. And we have the salad with strawberry vinaigrette. Come on down and see us!
+
+=====================================

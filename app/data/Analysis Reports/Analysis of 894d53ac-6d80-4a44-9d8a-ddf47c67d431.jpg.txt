@@ -1,0 +1,54 @@
+=====================================
+File Name: 894d53ac-6d80-4a44-9d8a-ddf47c67d431.jpg
+File Path: app/data/analyzed files/894d53ac-6d80-4a44-9d8a-ddf47c67d431.jpg
+Analysis Date: 2025-11-07T15:41:46.889Z
+-------------------------------------
+Summary:
+
+This file contains a text message conversation between the user and Tiffany regarding the user's feelings of being overlooked in scheduling and hours. The user expresses frustration that newer employees and even non-employees are called in for shifts before them. Tiffany's response is dismissive, addressing the user as 'Pam' (the user's mother) and stating she is busy, implying the user lacks the backbone to communicate directly.
+
+New Findings Summary:
+This file provides direct textual evidence of the user's attempts to address concerns about unfair scheduling and favoritism with Tiffany, and Tiffany's dismissive and potentially demeaning response.
+
+Confidence Score: 95%
+Severity Score: 5
+Children Detected: No
+
+Key Observations:
+- [N/A] The user expresses feeling 'unappreciated' and 'overlooked' regarding scheduling and hours, noting that employees who started after them receive more shifts and calls to work.
+- [N/A] The user identifies Juliana, Stephanie, Rachel, and Nicole as individuals who are called in for shifts, including some who 'don't work there', before the user.
+- [N/A] The user clarifies their intent, asking if there's a reason Tiffany chooses to call others in over them.
+- [N/A] Tiffany responds by addressing the user as 'Pam' (the user's mother), stating she is 'making dough' and has a 'group in at 3', implying she is too busy to engage in the conversation.
+- [N/A] Tiffany's response also mentions 'Everyone's schedules are the same except for mine because I am COOKING', which does not directly address the user's specific concern about being overlooked for additional shifts.
+
+Timeline Events:
+- [N/A] User sends a message to Tiffany expressing feelings of being overlooked for shifts and calls to work. (Subjects: Avery Becker, Tiffany Fixter)
+- [N/A] User sends a clarifying message to Tiffany about their previous statement. (Subjects: Avery Becker, Tiffany Fixter)
+- [N/A] Tiffany responds to the user's messages, addressing them as 'Pam' and stating she is busy. (Subjects: Tiffany Fixter, Avery Becker)
+
+Cross-References:
+- File "4a5043f5-3359-4d05-a535-ddf47c67d431.jpg": This partner file is a partial duplicate of the primary file, showing the same text message conversation. The content is identical and corroborates the primary file's transcription.
+- File "User's Testimony": The user's complaint about feeling 'overlooked as far as scheduling, and hours go' and less dedicated staff being rewarded aligns with the 'Encouragement of Alcohol Use and Favoritism Toward Disabled Employees' and 'Unfair and Arbitrary Tip Distribution to Volunteers and Favorites' sections of the user's testimony, which describe favoritism and inconsistent treatment.
+- File "User's Testimony": Tiffany addressing the user as 'Pam' (the user's mother) in the text message aligns with the user's testimony regarding 'Caregiver advocacy and immediate targeting' and 'Professional demeanor vs. emotional pressure', where Tiffany allegedly redirected conflict onto the user's mother and created discomfort, implying the user lacks independent agency.
+- File "User's Testimony": The user mentioning 'Juliana' as an employee who gets called in connects to the 'Ultimatum delivered minutes before clock-out' section of the user's testimony, where Tiffany mentions a 'pattern' with former employees including Juliana.
+
+Emotional Analysis:
+- Frustration: User's statement: 'something that has been kind of frustrating for me for awhile now.'
+- Feeling undervalued/overlooked: User's statement: 'I've been feeling kind of unappreciated... I feel as if I am overlooked as far as scheduling, and hours go.'
+- Dismissiveness: Tiffany's response: 'Pam, no. I'm making dough. I have a group in at 3. Everyone's schedules are the same except for mine because I am COOKING', particularly the use of 'Pam' instead of the user's name, as indicated in user's additional instruction.
+- Feeling belittled/silly: Tiffany's addressing the user as 'Pam', implying the user is unable to speak for themselves, as per the user's additional instructions.
+
+Recognized Employees:
+- Tiffany Fixter (at N/A) - 95%
+- Juliana (at N/A) - 80%
+- Avery Becker (at N/A) - 90%
+
+Potential Violations:
+- Unfair Labor Practices (scheduling favoritism)
+- Hostile Work Environment (dismissive communication, belittling)
+- Discrimination (if the dismissal is tied to the user's perceived reliance on a caregiver, as suggested by Tiffany addressing the user as 'Pam')
+
+Full Transcript:
+Hey Tiffany, I just wanted to talk to you about something that has been kind of frustrating for me for awhile now. Lately, I've been feeling kind of unappreciated. Not verbally, I feel my work has been appreciated when I am there, and you have been expressing that, it's more in the sense that I feel as if I am overlooked as far as scheduling, and hours go. And In the sense, a lot of employees who have come long after me, have gotten more hours than me, and get called in to be asked to help when it is busy, and I do not. I am wondering, is there something that I did wrong that makes you not want to ask me to work more shifts, or call me on those days you need an extra person? It feels as if Julianna, Stephanie or Rachel, or even Nicole and people who don't work there called even before me. Idk, I guess I was just wondering If there was any reason for that and just wanted to let you know how I felt about that, and I am happy to come in anytime you need me. The end came out wrong, what I meant to say was there a reason you choose to call others in over me? Pam, no. I'm making dough. I have a group in at 3. Everyone's schedules are the same except for mine because I am COOKING
+
+=====================================

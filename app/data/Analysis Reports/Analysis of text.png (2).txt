@@ -1,0 +1,61 @@
+=====================================
+File Name: text.png
+File Path: app/data/analyzed files/text.png
+Analysis Date: 2025-11-07T16:01:02.050Z
+-------------------------------------
+Summary:
+
+This evidence comprises a text message conversation between Avery and Tiffany on January 19, 2024, concerning shift scheduling and Avery's feeling of unfairness. Avery expresses frustration over a less senior employee, Juliana, being asked to discuss weekend shifts Avery has consistently worked for five years. Tiffany responds by clarifying that shifts are being cut across the board due to slow business, denies cutting shifts based on seniority, and then assigns specific shifts while delegating the decision for weekend shifts between Avery and Juliana, with a veiled threat if Avery is unwilling to comply.
+
+New Findings Summary:
+This file provides direct communication showing Tiffany's dismissive and potentially manipulative approach to scheduling concerns, her delegation of managerial duties to employees, and a specific instance of a veiled threat related to shift assignments, which corroborates previous mentions of Avery feeling overlooked for shifts and Tiffany's dismissive communication style.
+
+Confidence Score: 95%
+Severity Score: 5
+Children Detected: No
+
+Key Observations:
+- [N/A] Avery expresses feeling that it is unfair that a less senior employee, Juliana, was asked by Tiffany to discuss which weekend day Avery wanted to work, as Avery has worked those shifts for five years (from 'text.png').
+- [N/A] Avery states that scheduling should be a management decision and not handled by employees discussing amongst themselves (from 'text.png').
+- [N/A] Tiffany states, 'I am not cutting shifts based on seniority' (from 'more dismissal - Copy.png').
+- [N/A] Tiffany informs Avery that 'Friday and Saturday nights are not 'your shifts' as both of you work them', in response to Avery's statement about working those shifts for five years (from 'more dismissal - Copy.png').
+- [N/A] Tiffany acknowledges Avery's point about scheduling being her decision, stating, 'You said making changes to the schedule is my decision, and you're right, it is, and I am making the decision to cut both of you by one weekend night' (from 'more dismissal - Copy.png').
+- [N/A] Tiffany states, 'Being unwilling to talk to your coworker about what night you prefer will make me remove that option and i will just put you on Saturday nights,' implicitly threatening to assign the less preferred shift (from 'more dismissal - Copy.png').
+- [N/A] Tiffany states, 'And no, Juliana will not be working Thursdays' (from 'more dismissal - Copy.png').
+- [N/A] Tiffany adds, 'Again, everyone is getting cut and it's not all fair to cut everyone's shifts but not yours' (from 'more dismissal - Copy.png').
+- [N/A] Tiffany offers to talk tonight about the '2024 plan' (from 'more dismissal - Copy.png').
+- [N/A] Tiffany states, 'I'm sorry you feel I am being unfair, I am trying to be fair to everyone as much as possible while maintaining operations' (from 'more dismissal - Copy.png').
+- [N/A] Tiffany mentions that Friday and Saturday 'days are already covered, so that will not work unless there is a large party. Once again, this is temporary until sales go back to normal' (from 'more dismissal - Copy.png').
+- [N/A] Tiffany concludes by stating, 'I have private event dates I will discuss with you' (from 'more dismissal - Copy.png').
+
+Timeline Events:
+- [N/A] Avery sends a text message to Tiffany expressing concerns about shift scheduling and Juliana (from 'text.png'). (Subjects: Avery Becker, Tiffany Fixter, Juliana)
+- [N/A] Tiffany sends a text message to Avery addressing Avery's concerns and explaining shift cuts (from 'more dismissal - Copy.png'). (Subjects: Tiffany Fixter, Avery Becker, Juliana)
+
+Cross-References:
+- File "more dismissal - Copy.png": This file contains Tiffany's direct response to Avery's message in 'text.png', providing her rationale for shift cuts and her approach to scheduling disputes.
+- File "894d53ac-6d80-4a44-9d8a-ddf47c67d431.jpg": Avery's expression of feeling 'unappreciated' and 'overlooked' in 'text.png' regarding shift assignments and others (including Juliana) being called in before them is consistent with the themes in this past evidence.
+- File "text 2 dismissive attitude - Copy.png": This conversation in 'text.png' and 'more dismissal - Copy.png' directly follows and provides the context for Avery's continued frustration about shifts being given to Juliana and the delegation of scheduling, which was partially visible in 'text 2 dismissive attitude - Copy.png'.
+
+Emotional Analysis:
+- Frustration: Avery's statement 'I feel like this is unfair because I've been working for the last five years these same shifts, and am questioning why I need to choose...' (from 'text.png')
+- Dismissiveness: Tiffany's statements like 'Friday and Saturday nights are not 'your shifts'' and 'I'm sorry you feel I am being unfair' (from 'more dismissal - Copy.png')
+- Passive-aggressiveness: Tiffany's use of Avery's own words against them, 'You said making changes to the schedule is my decision, and you're right, it is, and I am making the decision...' (from 'more dismissal - Copy.png')
+- Intimidation/Threat: Tiffany's statement, 'Being unwilling to talk to your coworker about what night you prefer will make me remove that option and i will just put you on Saturday nights' (from 'more dismissal - Copy.png')
+- Undermining: Tiffany's assertion 'Friday and Saturday nights are not 'your shifts'' and her response 'I'm sorry you feel I am being unfair,' rather than acknowledging any fault (from 'more dismissal - Copy.png')
+
+Recognized Employees:
+- Avery Becker (at N/A) - 100%
+- Tiffany Fixter (at N/A) - 100%
+- Juliana (at N/A) - 90%
+
+Potential Violations:
+- Unprofessional Conduct
+- Inconsistent Application of Workplace Policies (seniority vs. 'not your shifts')
+- Creating a Hostile Work Environment (through dismissiveness and veiled threats)
+- Managerial Negligence (delegating scheduling duties to employees)
+
+Full Transcript:
+Avery (Jan 19, 2024 at 9:10 AM): Hey Tiffany, I just wanted to write you because I just got a text from Juliana. She told me you asked her to discuss with me, what day of the week this weekend I wanted to work. I just wanted to express my feelings about this, as it has happened multiple times. I feel like this is unfair because I've been working for the last five years these same shifts, and am questioning why I need to choose between the two nights, so somebody who has been there significantly less time than me, can take one of them, from me. I only work three nights a week and they're really important to me. I'm ok this week taking off Saturday but I don't want to have to continually take off one of the nights each weekend. I understand that it is slow, but we have gone through many seasons like this, and I have always worked the same shifts. I also feel, that matters such as scheduling is your decision, and people should not be taking it into their own hands, discussing amongst each other who will work which day, especially if I am unaware if it is true that she was asked to do so. I hope you understand. Tiffany (Jan 19, 2024 at 12:44 PM): I am not cutting shifts based on seniority. Friday and Saturday nights are not 'your shifts' as both of you work them. You said making changes to the schedule is my decision, and you're right, it is, and I am making the decision to cut both of you by one weekend night. Being unwilling to talk to your coworker about what night you prefer will make me remove that option and i will just put you on Saturday nights. And no, Juliana will not be working Thursdays. Again, everyone is getting cut and it's not all fair to cut everyone's shifts but not yours. I can talk to you tonight about what the 2024 plan is and why. I'm sorry you feel I am being unfair, I am trying to be fair to everyone as much as possible while maintaining operations. Friday and Saturday days are already covered, so that will not work unless there is a large party. Once again, this is temporary until sales go back to normal. I have private event dates I will discuss with you.
+
+=====================================

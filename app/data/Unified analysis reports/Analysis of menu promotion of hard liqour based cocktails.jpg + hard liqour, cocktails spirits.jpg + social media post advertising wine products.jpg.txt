@@ -1,0 +1,48 @@
+=====================================
+Files: menu promotion of hard liqour based cocktails.jpg + hard liqour, cocktails spirits.jpg + social media post advertising wine products.jpg
+File Paths:
+- [1] app/data/analyzed files/menu promotion of hard liqour based cocktails.jpg
+- [2] app/data/analyzed files/hard liqour, cocktails spirits.jpg
+- [3] app/data/analyzed files/social media post advertising wine products.jpg
+Analysis Date: 2025-11-19T16:26:38.170Z
+-------------------------------------
+Summary:
+
+The evidence strongly corroborates allegations of unauthorized alcohol sales and storage. A printed menu explicitly lists wine varietals (Sauvignon Blanc, Cabernet, Rosé) and canned cocktails. A storage cart in an employee area contains hard liquor, including bottles of Herradura Tequila, Grind Espresso Shot (rum-based), and Cutwater Spirits (rum-based canned cocktails), which typically require a spirits license. A social media post further confirms the public advertisement of "mulled wine."
+
+New Findings Summary:
+This file batch provides the first photographic proof of physical hard liquor bottles (Tequila, Rum) and printed menus selling wine on the premises. This moves the evidence from testimonial claims to documented physical presence of unauthorized alcohol products.
+
+Confidence Score: 95%
+Severity Score: 8
+Children Detected: No
+
+Key Observations:
+- [N/A] A laminated menu lists 'Wine' options (White, Red, Rosé) for $8.50 and 'Carbliss' canned cocktails. It also lists a 'Seasonal Slush' for $10.
+- [N/A] A utility cart in a storage area contains a box of 'Grind Espresso Shot' labeled as a 'Distilled Spirit Specialty' and 'Rum based'.
+- [N/A] Two glass bottles of Herradura Tequila (Silver) are visible on the middle shelf of the storage cart, alongside a 'Cutwater Spirits' box and a can of 'Cutwater Tiki Rum Mai Tai'.
+- [N/A] A Facebook post dated November 25, 2023, from 'Brewability & Pizzability' explicitly advertises 'warm mulled wine' for sale.
+- [N/A] Boxes of 'Carbliss' cocktails are visible on the storage cart, corroborating their listing on the printed menu.
+
+Timeline Events:
+- [N/A] Brewability & Pizzability posts a photo of an employee at a s'mores bar, advertising 'warm mulled wine'. (Subjects: Unidentified Female Employee)
+- [N/A] Documentation of a service cart holding tequila, rum-based spirits, and canned cocktails in a storage area. (Subjects: Unknown)
+
+Cross-References:
+- File "AQPB6JJPK9NNMEUIOSbPAFG2lbQBwOBsUVCLC6K581gVlL6M3eCuEqXJ0AybMRpv9DnZQPcZHQp0__Ez4HqrD64.mp4": The employee Jorge previously mentioned a daiquiri made 'with rum.' The discovery of 'Grind Espresso Shot' (rum-based) and 'Cutwater Tiki Rum Mai Tai' provides physical evidence of rum on the premises.
+- File "User Testimony": The user claimed management 'spikes slushies' with hard liquor. The menu lists a 'Seasonal Slush' and the storage cart contains open bottles of Herradura Tequila, supporting the capability to mix hard liquor into frozen drinks.
+- File "User Testimony": The user stated the business is licensed only for beer/malt beverages. The presence of wine (menu/social post) and distilled spirits (Tequila/Rum) directly contradicts the limitations of a standard beer license.
+
+Emotional Analysis:
+- Cheerfulness: The social media post uses exclamation points and festive language ('great time!!') to promote the wine and s'mores event.
+
+Recognized Employees:
+None.
+
+Potential Violations:
+- Sale of alcohol without proper licensure (distilled spirits/wine)
+- Illegal storage of hard liquor in unauthorized areas
+- False advertising (if claiming to be a 'brewery' while serving spirits)
+- Workplace safety violations (unsecured high-ABV alcohol accessible to staff)
+
+=====================================

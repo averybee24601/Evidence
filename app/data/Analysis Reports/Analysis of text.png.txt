@@ -1,0 +1,53 @@
+=====================================
+File Name: text.png
+File Path: app/data/analyzed files/text.png
+Analysis Date: 2025-11-07T15:50:04.914Z
+-------------------------------------
+Summary:
+
+This text message exchange captures the user expressing frustration and concern to Tiffany, the owner, regarding changes in their work schedule, where a less tenured employee (Juliana) was offered shifts the user had held for five years. Tiffany responds by explaining that hours are being cut due to slow business and overstaffing, including for long-term employees, and indicates that scheduling for weekend shifts (Friday/Saturday) was delegated to the employees (Juliana and Avery) to decide amongst themselves.
+
+New Findings Summary:
+This exchange provides specific evidence of the user's concern about unfair shift allocation to less tenured employees and management's perceived dismissiveness in addressing these concerns, including delegating scheduling decisions to staff.
+
+Confidence Score: 95%
+Severity Score: 5
+Children Detected: No
+
+Key Observations:
+- [N/A] The user expresses feelings of unfairness regarding scheduling, stating that they have worked the same shifts for five years and a less tenured employee is now being offered their shifts.
+- [N/A] The user questions why they need to choose between two weekend nights, implying a cut in their regular three nights a week schedule.
+- [N/A] The user states that scheduling decisions should be Tiffany's responsibility and expresses concern that employees are taking it into their own hands, especially if the user was unaware of such a directive.
+- [N/A] Tiffany states that everyone's shifts are being cut in January/February due to slow business and being 'way over staffed', including staff who have been there longer than Avery.
+- [N/A] Tiffany clarifies that she asked Juliana if Avery wanted Friday or Saturday, stating it 'doesn't make sense to have both of you behind the bar on a slow night'.
+- [N/A] Tiffany informs Avery of a new basic schedule: 'Tuesdays- you', 'Wednesdays - Juliana', 'Thursdays - Steph'.
+- [N/A] Tiffany indicates that Fridays and Saturdays were 'up to you two to discuss who wants what based on musicians, preferences-' implying Avery and Juliana were to make the decision, which she says is why she 'was hoping you both could have a conversation and come to a decision'.
+- [N/A] Tiffany's initial message starts with an explanation about her phone being on 'stereo/ live streaming' and not wanting to text Avery late after getting home, which seems to deflect from the immediate issue.
+
+Timeline Events:
+- [N/A] User sends a text message to Tiffany expressing frustration about shift changes and scheduling. (Subjects: Avery Becker, Tiffany Fixter)
+- [N/A] Tiffany responds, explaining staff cuts due to slow business and delegating weekend scheduling decisions to employees. (Subjects: Tiffany Fixter, Avery Becker, Juliana)
+
+Cross-References:
+- File "894d53ac-6d80-4a44-9d8a-ddf47c67d431.jpg": This conversation parallels previous complaints where the user felt 'overlooked' for shifts, and Tiffany's response was perceived as dismissive, similar to her addressing the user as 'Pam' in the earlier file.
+- File "text 2 dismissive attitude - Copy.png": This file contains Tiffany's direct response to the concerns raised by the user in 'text.png', providing context for the scheduling changes and management's approach.
+
+Emotional Analysis:
+- Frustration: User expresses 'feel like this is unfair' and questions why they need to choose between shifts after five years of consistent schedule.
+- Dismissiveness (perceived): Tiffany's response (in text 2 dismissive attitude - Copy.png) focuses on general business slowdown and delegates scheduling responsibility to employees, without directly acknowledging the user's seniority or the emotional impact of the shift changes, which the user perceived as dismissive.
+- Concern: User states 'I don't want to continually take off one of the nights each weekend' and 'scheduling is your decision, and people should not be taking it into their own hands'.
+
+Recognized Employees:
+- Tiffany Fixter (at N/A) - 100%
+- Juliana (at N/A) - 100%
+- Avery Becker (at N/A) - 100%
+
+Potential Violations:
+- Inconsistent Policy Enforcement
+- Unfair Labor Practices (potential for)
+- Workplace Favoritism (implied by user's concern over seniority)
+
+Full Transcript:
+text.png: 4:14 PM Hey Tiffany, I just wanted to write you because I just got a text from Juliana. She told me you asked her to discuss with me, what day of the week this weekend I wanted to work. I just wanted to express my feelings about this, as it has happened multiple times. I feel like this is unfair because I've been working for the last five years these same shifts, and am questioning why I need to choose between the two nights, so somebody who has been there significantly less time than me, can take one of them, from me. I only work three nights a week and they're really important to me. I'm ok this week taking off Saturday but I don't want to have to continually take off one of the nights each weekend. I understand that it is slow, but we have gone through many seasons like this, and I have always worked the same shifts. I also feel, that matters such as scheduling is your decision, and people should not be taking it into their own hands, discussing amongst each other who will work which day, especially if I am unaware if it is true that she was asked to do so. I hope you understand. Jan 19, 2024 at 9:10 AM. text 2 dismissive attitude - Copy.png: 4:14 PM Avery, my phone was on the stereo/ live streaming and I didn't want to text you late after I got home. Yes, I am cutting everyone's shifts in January/February while it has been extremely slow. We are way over staffed. That includes staff that have been with me even longer than you (ie Tony, Nathan, etc) I asked Juliana to see if you wanted Friday or Saturday. It doesn't make sense to have both of you behind the bar on a slow night. It will pick up. I do have private & large events scheduled on some Sundays and opportunities for more tips/work for you. Tuesdays- you Wednesdays - Juliana Thursdays - Steph and Fridays and Saturdays were up to you two to discuss who wants what based on musicians, preferences- which is why I was hoping you both could have a conversation and come to a decision. I understand that, and agree that cutting staff is definitely necessary during important in slow times like this, but taking away my shift and giving it to Juliana is not solving.
+
+=====================================

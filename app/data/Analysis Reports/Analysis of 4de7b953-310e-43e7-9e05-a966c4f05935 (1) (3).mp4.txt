@@ -1,0 +1,50 @@
+=====================================
+File Name: 4de7b953-310e-43e7-9e05-a966c4f05935 (1).mp4
+File Path: app/data/analyzed files/4de7b953-310e-43e7-9e05-a966c4f05935 (1) (3).mp4
+Analysis Date: 2025-11-19T15:48:08.914Z
+-------------------------------------
+Summary:
+
+The video footage shows an employee identified as Jose, who has Down syndrome, performing a sexually suggestive dance routine for a seated female. The performance includes lap dance movements, floor work, and physical contact. Dollar bills are scattered on the floor around them, and at one point, the female participant sits on Jose's lap, engaging in reciprocal suggestive behavior.
+
+New Findings Summary:
+This footage provides visual confirmation of cash tips being thrown on the floor during the performance, directly supporting the allegation that financial incentives are used to motivate this behavior. It also shows the interaction escalating to the guest performing a lap dance on the employee, indicating a lack of boundary enforcement.
+
+Confidence Score: 95%
+Severity Score: 9
+Children Detected: No
+
+Key Observations:
+- [00:00:01] Jose is observed standing in front of a seated woman, wearing a red t-shirt and blue shorts.
+- [00:00:03] Jose bends over at the waist with his buttocks positioned near the seated woman's face/chest area, simulating a lap dance move.
+- [00:00:05] The seated woman touches Jose's lower back/hips while he dances.
+- [00:00:10] Jose performs floor moves, including a push-up position, while multiple US dollar bills are clearly visible scattered on the wooden floor around him.
+- [00:00:15] Jose stands and thrusts his hips or adjusts his shorts in a manner consistent with the 'Magic Mike' routine described in testimony.
+- [00:00:18] Jose turns his back to the woman and lowers his body again in close proximity to her, performing a grinding motion.
+- [00:00:22] The dynamic reverses: Jose is now seated, and the woman is straddling his lap, facing him, performing a lap dance on the employee.
+- [00:00:25] A man in a white tank top is visible in the background watching the performance.
+
+Timeline Events:
+- [00:00:01] Jose begins a dance performance for a seated woman in the main area of the establishment. (Subjects: Jose)
+- [00:00:10] Money is observed on the floor as the dance routine involves floor work. (Subjects: Jose)
+- [00:00:22] The interaction escalates to physical contact with the guest sitting on Jose's lap. (Subjects: Jose)
+
+Cross-References:
+- File "Magic mike Jose.mp4": The specific dance moves (removing clothing/adjusting clothes, floor work, lap dancing) are consistent with the routine observed in the previous file.
+- File "User Testimony (Coercion)": The presence of cash on the floor strongly corroborates the user's testimony that financial incentives ('dollar bills') are used to encourage Jose to perform routines he reportedly dislikes.
+- File "video_unauthorized_youtube_footage.mp4": Matches the pattern of 'lap dance' style entertainment occurring in the workplace, as seen in the unauthorized documentary footage.
+
+Emotional Analysis:
+- Encouragement/Entertainment: The seated woman is smiling, clapping, and engaging physically with the dance at 00:00:04 and 00:00:22.
+- Performance Pressure (Inferred): Jose is performing specific, high-energy routines surrounded by money, aligning with testimony of him being pressured to 'perform' for tips.
+
+Recognized Employees:
+- Jose (at 00:00:01) - 98%
+
+Potential Violations:
+- Exploitation of Vulnerable Adults
+- Sexual Harassment/Hostile Work Environment
+- Workplace Safety Violations (Inappropriate Physical Contact)
+- Duty of Care Violations (Encouraging sexualized performance for tips)
+
+=====================================

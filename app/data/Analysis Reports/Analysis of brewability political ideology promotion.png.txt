@@ -1,0 +1,78 @@
+=====================================
+File Name: brewability political ideology promotion.png
+File Path: app/data/analyzed files/brewability political ideology promotion.png
+Analysis Date: 2025-11-07T06:35:31.080Z
+-------------------------------------
+Summary:
+
+This image displays a social media post by "Brewability & Pizzability" sharing information about a "24 hour Economic Blackout" event. The post encourages participants to avoid non-essential purchases from major retailers and fast food, instead supporting small, local businesses, to send a message to corporations and banks. Avery Becker is identified as a potential commenter on the post.
+
+New Findings Summary:
+This file provides direct evidence of Brewability's social media platform promoting a politically charged economic protest, contrasting with the user's testimony of being prohibited from expressing their own political views.
+
+Confidence Score: 95%
+Severity Score: 6
+Children Detected: No
+
+Key Observations:
+- [N/A] The "Brewability & Pizzability" Facebook page posted on February 16, sharing a call for a "24 hour Economic Blackout" on February 28th. This event advocates for specific economic actions and expresses a political viewpoint, stating "Corporations and banks only care about their bottom line" and aiming to "disrupt the economy."
+- [N/A] The shared post encourages refraining from purchases at major retailers, fast food, and gas stations, while promoting support for 'small, local businesses'. This implicitly aligns with certain economic and political stances, directly corroborating the user's testimony regarding the promotion of specific political ideologies by management, despite a 'no politics' rule for employees.
+- [N/A] The image shows 'Comment as Avery Becker' at the bottom, indicating that Avery Becker is associated with this post as a potential commenter.
+
+Timeline Events:
+- [N/A] Brewability & Pizzability shared a Facebook post promoting a '24 hour Economic Blackout' on February 16 (year not specified). (Subjects: Unknown)
+- [N/A] A post by Wendy Clay Alfredsen promoting the '24 hour Economic Blackout' was made on February 13 (year not specified). (Subjects: Unknown)
+- [N/A] The '24 hour Economic Blackout' is scheduled for Friday, February 28th, from 12:00 AM to 11:59 PM (year not specified). (Subjects: Unknown)
+
+Cross-References:
+- File "User's Testimony": This image directly supports the user's testimony regarding 'Retaliation and Inconsistent Enforcement of Political Expression and Morality Standards,' specifically that 'management regularly promotes and hosts ideologically aligned events' while restricting employee political expression.
+- File "User's Testimony": The content of the economic blackout post, which attributes economic issues to 'corporations and banks,' aligns with the user's testimony that Tiffany frequently engages in 'Political Commentary, Misinformation, and Deflection Using Industry Events' by blaming broader economic factors.
+
+Emotional Analysis:
+- Frustration/Targeted Feeling: The promotion of a politically charged event by the employer, while explicitly prohibiting employees from expressing their own political views (as stated in user testimony), could induce feelings of frustration and being unfairly targeted for the user.
+
+Recognized Employees:
+- Avery Becker (at N/A) - 99%
+
+Potential Violations:
+- Inconsistent Enforcement of Workplace Policy
+- Potential Political Discrimination
+- Creation of a Hostile Work Environment
+
+Full Transcript:
+Brewability & Pizzability's post
+Brewability & Pizzability Follow
+16 February • 
+Wendy Clay Alfredsen
+13 February • 
+‼️ Please consider participating in this:
+The 24 hour Economic Blackout
+As our first initial act, we turn it off.
+WHEN:
+Friday February 28th from
+12:00 AM to 11:59 PM
+WHAT NOT TO DO:
+Do not make any purchases
+Do not shop online, or in-store
+No Amazon, No Walmart, No Best Buy
+Nowhere!
+Do not spend money on:
+Fast Food
+Gas
+Major Retailers
+Do not use Credit or Debit Cards for non essential spending
+WHAT YOU CAN DO:
+Only buy essentials of absolutely necessary
+(Food, Medicine, Emergency Supplies)
+If you must spend, ONLY support small, local businesses.
+SPREAD THE MESSAGE
+Talk about it, post about it, and document your actions that day!
+WHY THIS MATTERS!
+~ Corporations and banks only care about their bottom line.
+~ If we disrupt the economy for just ONE day, it sends a powerful message.
+~ If they don't listen (they wont) we make the next blackout longer (We will)
+This is our first action.
+This is how we make history.
+Comment as Avery Becker
+
+=====================================

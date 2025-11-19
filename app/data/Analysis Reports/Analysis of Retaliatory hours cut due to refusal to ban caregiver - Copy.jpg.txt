@@ -1,0 +1,49 @@
+=====================================
+File Name: Retaliatory hours cut due to refusal to ban caregiver - Copy.jpg
+File Path: app/data/analyzed files/Retaliatory hours cut due to refusal to ban caregiver - Copy.jpg
+Analysis Date: 2025-11-08T02:01:23.735Z
+-------------------------------------
+Summary:
+
+This image displays a text message conversation between the user and Tiffany regarding a schedule change. The exchange confirms an ultimatum presented to the user: either maintain their full work schedule (Tuesday, Friday, Saturday) under the condition that their caregiver is banned from the premises, or reduce their hours to only Tuesdays. The user chose the reduced Tuesday-only schedule, citing their refusal to exclude their mother, who serves as their advocate and caregiver.
+
+New Findings Summary:
+This file provides direct textual evidence of the ultimatum regarding caregiver presence and the subsequent reduction in the user's work hours, directly corroborating the user's testimony.
+
+Confidence Score: 100%
+Severity Score: 9
+Children Detected: No
+
+Key Observations:
+- [N/A] The user sends a text message stating, 'I want to confirm. I'm not working Fridays and Saturdays from this day forward?', indicating a prior discussion about changes to their work schedule, which aligns with the user's testimony about hours being cut.
+- [N/A] Tiffany responds with two explicit options: 'to continue your normal schedule (Tues,Fri,Sat) and get dropped off and picked up OR you just work Tuesdays 3-9', directly corroborating the user's testimony of an ultimatum involving caregiver restrictions or reduced hours.
+- [N/A] The user chooses the 'Tuesday' option, explaining, 'I'm not going to tell my mom she isn't welcome at my workplace. She's my advocate and caregiver, and I won't cut her out of a major part of my life where I want her to be included.' This aligns with the user's testimony regarding their refusal to ban their caregiver and advocate.
+- [N/A] Tiffany's final message, 'Ok. See you Tuesdays.', confirms the immediate implementation of the reduced schedule, directly supporting the user's claim of retaliatory hour reduction.
+
+Timeline Events:
+- [N/A] User sends a text message to Tiffany asking for confirmation about not working Fridays and Saturdays from that day forward. (Subjects: User, Tiffany)
+- [N/A] Tiffany responds by outlining two scheduling options to the user, one of which includes banning the caregiver. (Subjects: Tiffany, User)
+- [N/A] The user texts back, choosing the Tuesday-only schedule and explaining their refusal to exclude their mother/caregiver. (Subjects: User, User's Mother)
+- [N/A] Tiffany sends a final text acknowledging the user's choice to work only on Tuesdays. (Subjects: Tiffany, User)
+
+Cross-References:
+- File "User's Testimony": This text message exchange directly corroborates the user's testimony detailing Tiffany's ultimatum regarding banning the caregiver and the subsequent reduction of work hours to 'Tuesdays only' as a direct consequence of the user's refusal. Specifically, it confirms the 'Precipitating event (hat and “inclusivity”):' section and the 'Immediate consequence (retaliation):' section where the user's hours were cut after refusing to exclude their caregiver.
+- File "User's Testimony": The user's statement in the text message, 'She's my advocate and caregiver, and I won't cut her out of a major part of my life where I want her to be included,' directly reflects the user's testimony emphasizing the essential and protective role of their caregiver/mother in their life and work.
+
+Emotional Analysis:
+- Assertion/Principled Stand: User's message choosing Tuesday: 'I'm choosing Tuesday, because I'm not going to tell my mom she isn't welcome at my workplace. She's my advocate and caregiver, and I won't cut her out of a major part of my life where I want her to be included.'
+- Dismissive/Neutral: Tiffany's final response: 'Ok. See you Tuesdays.' This acknowledges the choice without addressing the user's expressed reasons or the implications of the ultimatum.
+
+Recognized Employees:
+- Tiffany Fixter (at N/A) - 95%
+
+Potential Violations:
+- Retaliation for Protected Activity
+- Discrimination Based on Disability/Caregiver Needs
+- Ethical Misconduct
+- Hostile Work Environment
+
+Full Transcript:
+I want to confirm. I'm not working Fridays and Saturdays from this day forward? Your options are: to continue your normal schedule (Tues,Fri,Sat) and get dropped off and picked up OR you just work Tuesdays 3-9 Yes, this was discussed. I'm choosing Tuesday, because I'm not going to tell my mom she isn't welcome at my workplace. She's my advocate and caregiver, and I won't cut her out of a major part of my life where I want her to be included. Ok. See you Tuesdays.
+
+=====================================

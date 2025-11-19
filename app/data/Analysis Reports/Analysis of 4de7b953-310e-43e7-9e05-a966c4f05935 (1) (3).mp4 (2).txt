@@ -1,0 +1,46 @@
+=====================================
+File Name: 4de7b953-310e-43e7-9e05-a966c4f05935 (1).mp4
+File Path: app/data/analyzed files/4de7b953-310e-43e7-9e05-a966c4f05935 (1) (3).mp4
+Analysis Date: 2025-11-19T15:50:05.961Z
+-------------------------------------
+Summary:
+
+The video frames depict a male employee, identified as Jose, performing a sexually suggestive dance routine for a seated female individual. The performance includes floor work, close physical proximity, and movements characteristic of a 'lap dance' or striptease, such as grinding and crawling. Cash bills are scattered on the floor around the performers, indicating a tipping or paid performance environment.
+
+New Findings Summary:
+These frames provide clear, sequential visual evidence of the specific choreography involved in the alleged 'Magic Mike' routines, including floor crawling and buttocks grinding ('twerking') in close proximity to a patron's face. The presence of scattered cash on the floor directly supports the context of a performance for money.
+
+Confidence Score: 95%
+Severity Score: 9
+Children Detected: No
+
+Key Observations:
+- [00:00:01] Jose, wearing a red shirt, leans in extremely close to a seated female patron, positioning his face near her chest area while she sits with money in hand.
+- [00:00:05] Jose drops to the floor in a plank or push-up position. Several dollar bills are visible scattered on the wood floor around him.
+- [00:00:08] Jose stands with his back to the seated woman, bends over, and performs a grinding motion with his buttocks ('twerking') in close proximity to her face.
+- [00:00:10] Jose crawls on his hands and knees on the floor in front of the seated woman, mimicking movements often associated with 'Magic Mike' style strip routines.
+- [00:00:11] The seated woman places her hands on Jose's lower back and hip area as he stands in front of her.
+
+Timeline Events:
+- [00:00:01] Jose begins a dance performance for a seated woman in the main area of the establishment. (Subjects: Jose, Unidentified Woman, Unidentified Man (Background))
+- [00:00:08] Jose performs a lap dance routine involving floor work and close contact while onlookers watch. (Subjects: Jose, Unidentified Woman)
+
+Cross-References:
+- File "Magic mike Jose.mp4": The dance moves (floor crawling, grinding) and the presence of money on the floor are consistent with the 'Magic Mike' routine seen in previous footage.
+- File "video_unauthorized_youtube_footage.mp4": Corroborates the footage of Jose performing lap dances on customers, which the user claims is exploited for entertainment.
+- File "User Testimony": Directly corroborates the allegation that Jose is instructed to perform 'Magic Mike' style dirty dancing routines and lap dances for customers.
+
+Emotional Analysis:
+- Performative/Compliance: Jose appears to be executing specific, choreographed steps of a routine (plank, crawl, twerk) rather than spontaneous dancing.
+- Audience Amusement: The seated woman appears to be participating willingly, touching the employee and watching the performance.
+
+Recognized Employees:
+- Jose (at 00:00:01) - 98%
+
+Potential Violations:
+- Exploitation of vulnerable adults
+- Sexual harassment or inappropriate workplace conduct
+- Failure to protect employees with developmental disabilities from sexualized environments
+- Potential labor violations regarding job duties and dignity
+
+=====================================

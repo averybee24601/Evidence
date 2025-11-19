@@ -1,0 +1,48 @@
+=====================================
+Files: menu promotion of hard liqour based cocktails.jpg + hard liqour, cocktails spirits.jpg + social media post advertising wine products.jpg
+File Paths:
+- [1] app/data/analyzed files/menu promotion of hard liqour based cocktails.jpg
+- [2] app/data/analyzed files/hard liqour, cocktails spirits.jpg
+- [3] app/data/analyzed files/social media post advertising wine products.jpg
+Analysis Date: 2025-11-19T16:34:55.026Z
+-------------------------------------
+Summary:
+
+This set of images provides direct visual evidence supporting allegations that the establishment sells and stores hard liquor and wine, potentially violating the scope of a beer and malt-only license. The evidence includes a printed menu listing wine and spirits-based canned cocktails, a storage cart containing bottles of tequila and cases of rum-based spirits, and a social media post explicitly advertising "mulled wine."
+
+New Findings Summary:
+The files introduce physical proof of specific high-ABV spirits stored on premises (Herradura Tequila, Grind Espresso Shot) and a printed menu formally offering wine by the glass, corroborating the user's claims of unlicensed sales beyond just beer.
+
+Confidence Score: 100%
+Severity Score: 8
+Children Detected: No
+
+Key Observations:
+- [N/A] In file 'menu promotion of hard liqour based cocktails.jpg', a printed table menu explicitly lists 'Wine' for $8.50, specifying 'White: Sauvignon Blanc', 'Red: Cabernet Sauvignon', and 'Rosé' (13% ABV). This contradicts a beer-only license.
+- [N/A] In file 'menu promotion of hard liqour based cocktails.jpg', the menu lists 'Carbliss' at $8/can. Carbliss is typically a vodka or tequila-based ready-to-drink cocktail, falling under spirits, not malt beverages.
+- [N/A] In file 'hard liqour, cocktails spirits.jpg', a utility cart in a storage area contains at least two visible 750ml square bottles of 'Herradura Silver Tequila', a distilled spirit.
+- [N/A] In file 'hard liqour, cocktails spirits.jpg', the cart contains a 12-bottle case box labeled 'GRIND Espresso Shot', which is a rum-based spirit specialty.
+- [N/A] In file 'hard liqour, cocktails spirits.jpg', loose cans of 'Cutwater Tiki Rum Mai Tai' are visible on the cart. Cutwater products are spirits-based cocktails (rum in this instance), not malt beverages.
+- [N/A] In file 'social media post advertising wine products.jpg', a Facebook post dated November 25, 2023, explicitly promotes 'warm mulled wine' available for purchase.
+
+Timeline Events:
+- [N/A] Brewability & Pizzability posts on Facebook advertising 'warm mulled wine' and a s'mores bar. (Subjects: Unidentified Employee)
+- [N/A] Photos taken of a menu listing wine and spirits, and a storage cart containing tequila and rum products. (Subjects: Unknown)
+
+Cross-References:
+- File "AQPB6JJPK9NNMEUIOSbPAFG2lbQBwOBsUVCLC6K581gVlL6M3eCuEqXJ0AybMRpv9DnZQPcZHQp0__Ez4HqrD64.mp4": The physical presence of rum products (Cutwater, Grind) in the storage cart corroborates the employee Jorge's statement in the video that the strawberry daiquiri is made 'with rum.'
+- File "User Testimony": The images of wine on the menu and the Facebook post confirm the user's testimony regarding the 'Illegal Service of Hard Liquor and Wine.'
+- File "User Testimony": The photo of the utility cart with open/loose bottles of tequila supports the user's allegation of 'Illegal Storage... of Hard Liquor in Employee Work Areas.'
+
+Emotional Analysis:
+None.
+
+Recognized Employees:
+None.
+
+Potential Violations:
+- Liquor Licensing Violation (Sale of wine/spirits without proper license)
+- Workplace Safety Violation (Unsecured storage of hard liquor in employee areas)
+- Truth in Advertising (Misrepresenting establishment scope)
+
+=====================================

@@ -1,0 +1,43 @@
+=====================================
+File Name: trimmed-Management drinking (3).mp4
+File Path: app/data/analyzed files/trimmed-Management drinking (3).mp4
+Analysis Date: 2025-11-19T18:22:47.824Z
+-------------------------------------
+Summary:
+
+The video depicts the interior of the Brewability establishment during business hours. It features a manager, identified as Jess, socializing at a table with a male patron where beer glasses are present. An employee, identified as Connor, is seen navigating the space in a wheelchair.
+
+New Findings Summary:
+This file provides visual evidence of a manager (Jess) sitting at a table with open alcohol containers, corroborating user testimony regarding management drinking and socializing during shifts. It also positively identifies Connor, an employee who uses a wheelchair, within the work environment.
+
+Confidence Score: 85%
+Severity Score: 4
+Children Detected: No
+
+Key Observations:
+- [00:01:15] Employee Connor, who uses a wheelchair, is visible navigating the establishment floor. This aligns with the user's specific identification instruction.
+- [00:01:40] Manager Jess is observed in a close-up shot, smiling and interacting with the person recording.
+- [00:02:30] Manager Jess is seated at a table with a male patron. Open beer glasses are visible on the table in front of them, supporting testimony about management consuming alcohol or socializing excessively during work hours.
+
+Timeline Events:
+- [00:00:00] General view of the establishment interior with patrons and staff present. (Subjects: Unknown Patrons)
+- [00:01:15] Connor moves through the dining area in his wheelchair. (Subjects: Connor)
+- [00:01:40] Jess smiles at the camera while walking through the dining area. (Subjects: Jess)
+- [00:02:30] Jess sits at a table with a man wearing a beret; they appear to be conversing with drinks on the table. (Subjects: Jess, Male Patron)
+
+Cross-References:
+- File "User Testimony": The presence of a manager (Jess) sitting with alcohol at a table corroborates the user's testimony regarding 'Severe Intoxication of Management' and the culture of management drinking on site.
+- File "inaccessible work environment.jpg": The identification of Connor in this video establishes his presence as an employee, relevant to the previous evidence regarding the 'inaccessible work environment' that would impact his mobility.
+
+Emotional Analysis:
+- Happiness/Casual: Jess is smiling broadly in close-up shots (approx 00:01:40); the male patron is laughing (approx 00:02:10).
+
+Recognized Employees:
+- Jess (at 00:01:40) - 95%
+- Connor (at 00:01:15) - 90%
+
+Potential Violations:
+- Workplace Policy Violation (Drinking on Duty)
+- Unprofessional Conduct
+
+=====================================

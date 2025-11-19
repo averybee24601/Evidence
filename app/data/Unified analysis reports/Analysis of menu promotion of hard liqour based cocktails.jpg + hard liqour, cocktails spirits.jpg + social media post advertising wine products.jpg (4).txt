@@ -1,0 +1,48 @@
+=====================================
+Files: menu promotion of hard liqour based cocktails.jpg + hard liqour, cocktails spirits.jpg + social media post advertising wine products.jpg
+File Paths:
+- [1] app/data/analyzed files/menu promotion of hard liqour based cocktails.jpg
+- [2] app/data/analyzed files/hard liqour, cocktails spirits.jpg
+- [3] app/data/analyzed files/social media post advertising wine products.jpg
+Analysis Date: 2025-11-19T17:23:03.696Z
+-------------------------------------
+Summary:
+
+This set of three images provides direct visual evidence corroborating allegations that Brewability promotes, stores, and sells hard liquor and wine, potentially violating a beer/malt-only license. The evidence includes a menu explicitly listing wine varieties, a social media post advertising "warm mulled wine," and a storage cart containing bottles of tequila, boxes of rum-based spirits, and canned cocktails.
+
+New Findings Summary:
+These files provide the first definitive photographic proof of hard liquor inventory (Herradura Tequila, Grind Rum) and wine sales on the premises. Previously, this was only supported by user testimony and a brief video mention of "rum." This confirms the physical presence and active commercial promotion of these unlicensed products.
+
+Confidence Score: 100%
+Severity Score: 8
+Children Detected: No
+
+Key Observations:
+- [N/A] In 'menu promotion of hard liqour based cocktails.jpg', a laminated table menu explicitly lists 'Wine' for $8.50, offering 'White: Sauvignon Blanc', 'Red: Cabernet Sauvignon', and 'Rosé 13%'. This contradicts the user's claim that the establishment is only licensed for beer/malt beverages.
+- [N/A] In 'menu promotion of hard liqour based cocktails.jpg', the menu lists 'Carbliss' (vodka or tequila-based seltzer) and a 'Seasonal Slush' for $10, which aligns with testimony regarding slushies spiked with liquor.
+- [N/A] In 'hard liqour, cocktails spirits.jpg', a black utility cart contains two glass bottles with the distinct horseshoe logo of Herradura Tequila (hard liquor).
+- [N/A] In 'hard liqour, cocktails spirits.jpg', a large box labeled 'GRIND Espresso Shot' is visible, with text reading 'DISTILLED SPIRIT SPECIALTY' and 'Rum with Coffee'. This confirms the storage of bulk hard spirits.
+- [N/A] In 'hard liqour, cocktails spirits.jpg', a blue box labeled 'CUTWATER SPIRITS' and loose cans of 'Cutwater Tiki Rum Mai Tai' are visible. Cutwater products are typically spirit-based (rum/tequila/vodka) rather than malt-based.
+- [N/A] In 'social media post advertising wine products.jpg', a Facebook post by 'Brewability & Pizzability' dated November 25, 2023, explicitly advertises: 'What's better on a cold day than a mug of warm mulled wine... Come down to Brewability tonight!!'
+
+Timeline Events:
+- [N/A] Facebook post by Brewability & Pizzability advertising 'warm mulled wine' to the public. (Subjects: Brewability Management, Employee (Steph))
+
+Cross-References:
+- File "AQPB6JJPK9NNMEUIOSbPAFG2lbQBwOBsUVCLC6K581gVlL6M3eCuEqXJ0AybMRpv9DnZQPcZHQp0__Ez4HqrD64.mp4": The presence of 'Grind Rum' and 'Cutwater Rum Mai Tai' in the storage photo directly supports the previous video evidence where employee Jorge stated a drink was made 'with rum.'
+- File "User Testimony": The photo of Herradura Tequila and Grind Rum bottles in a utility cart corroborates the user's testimony that management 'routinely stores hard liquor... in the beer cooler and her office' and 'spikes slushie drinks with hard liquor.'
+- File "User Testimony": The menu listing 'Wine' and the Facebook post for 'Mulled Wine' confirm the user's allegation that the business 'openly serves boxed wine to customers' despite lacking a wine license.
+
+Emotional Analysis:
+- N/A: These files are static images of objects and documents; emotional analysis is not applicable.
+
+Recognized Employees:
+None.
+
+Potential Violations:
+- Sale of alcohol without a valid license (serving wine/spirits with only a beer/malt license)
+- Illegal storage of hard liquor on licensed premises
+- False advertising or misrepresentation of business license status
+- Workplace safety violations (storing controlled substances in employee access areas)
+
+=====================================

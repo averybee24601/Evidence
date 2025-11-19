@@ -1,0 +1,42 @@
+=====================================
+File Name: inaccessible work environment.jpg
+File Path: app/data/analyzed files/inaccessible work environment.jpg
+Analysis Date: 2025-11-19T17:32:17.772Z
+-------------------------------------
+Summary:
+
+This image captures a narrow, dimly lit hallway or workspace within Brewability that is heavily obstructed by haphazardly stacked cardboard boxes and debris. The clutter creates a bottleneck that severely restricts the width of the walkway, leaving barely enough room for a standing person to pass. Given the user's identification of Connor, a paraplegic employee who uses a manual wheelchair, this environment represents a complete barrier to his mobility and a significant safety hazard.
+
+New Findings Summary:
+This file provides visual evidence of physical accessibility barriers and safety hazards within the workplace. It specifically corroborates the hostile environment for employees with physical disabilities, showing a walkway that is impassable for the identified employee (Connor) due to accumulated clutter, violating basic accessibility and safety standards.
+
+Confidence Score: 100%
+Severity Score: 8
+Children Detected: No
+
+Key Observations:
+- [N/A] A hallway is lined with stacks of cardboard boxes on the left and equipment/debris on the right, narrowing the usable walking path to an estimated 1-2 feet.
+- [N/A] The width of the path is visually insufficient for a standard wheelchair (requiring 32-36 inches), rendering the space inaccessible to employee Connor, who is identified by the user as being present.
+- [N/A] Loose boxes and items on the floor create a severe trip hazard and would block emergency egress for any employee, particularly those with mobility impairments.
+- [N/A] A person's leg (wearing black pants with a white stripe and a white sneaker) is visible stepping through the narrow gap, demonstrating the difficulty of navigation even for able-bodied individuals.
+
+Timeline Events:
+- [N/A] A photo is taken documenting the obstructed condition of a workplace hallway, highlighting accessibility issues for employee Connor. (Subjects: Connor)
+
+Cross-References:
+- File "Juliana Testimony": Visual confirmation of the lack of safety protocols and regard for staff well-being mentioned by Juliana ('There’s no safety protocols put in place').
+- File "User Testimony": Supports the broader narrative of management failing to provide a safe or inclusive environment despite the 'family-friendly' and 'inclusive' branding.
+
+Emotional Analysis:
+None.
+
+Recognized Employees:
+- Connor (at N/A) - 100%
+
+Potential Violations:
+- Americans with Disabilities Act (ADA) - Accessibility Violations
+- OSHA Workplace Safety - Blocked Egress/Fire Hazards
+- OSHA Workplace Safety - Trip/Fall Hazards
+- Hostile Work Environment (Disability Discrimination)
+
+=====================================

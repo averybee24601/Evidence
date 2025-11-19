@@ -1,0 +1,218 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Sphere Audio Visualizer</title>
+    <style>
+        body { margin: 0; overflow: hidden; background: #000; font-family: Arial, sans-serif; }
+        canvas { display: block; }
+        #ui {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: 100;
+            color: white;
+            background: rgba(0,0,0,0.7);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(255,255,255,0.1);
+        }
+        input, button {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            width: 250px;
+            border: none;
+            border-radius: 5px;
+        }
+        button {
+            background: #4CAF50;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover { background: #45a049; }
+        button:disabled { background: #666; cursor: not-allowed; }
+    </style>
+</head>
+<body>
+    <div id="ui">
+        <label for="audioFile">Select Audio File:</label>
+        <input type="file" id="audioFile" accept="audio/*">
+        <button id="playBtn">Load & Play</button>
+        <div id="status">Ready</div>
+    </div>
+
+    <script type="module">
+        import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.167.1/build/three.module.js';
+        import { OrbitControls } from 'https://cdn.jsdelivr.net/npm/three@0.167.1/examples/jsm/controls/OrbitControls.js';
+
+        const scene = new THREE.Scene();
+        scene.background = new THREE.Color(0x000011);
+
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        camera.position.z = 5;
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setPixelRatio(window.devicePixelRatio);
+        document.body.appendChild(renderer.domElement);
+
+        const controls = new OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.05;
+
+        // Lights
+        const ambientLight = new THREE.AmbientLight(0x404040, 0.4);
+        scene.add(ambientLight);
+        const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
+        directionalLight.position.set(1, 1, 1);
+        scene.add(directionalLight);
+
+        // Sphere
+        const geometry = new THREE.SphereGeometry(2, 64, 32);
+        const positionCount = geometry.attributes.position.count;
+        const positions = geometry.attributes.position.array.slice();
+
+        // Vertex colors
+        const colorArray = new Float32Array(positionCount * 3);
+        geometry.setAttribute('color', new THREE.BufferAttribute(colorArray, 3));
+
+        const material = new THREE.MeshPhongMaterial({
+            vertexColors: true,
+            shininess: 100
+        });
+
+        const sphere = new THREE.Mesh(geometry, material);
+        scene.add(sphere);
+
+        // Audio
+        let audioContext, analyser, dataArray, source, audio;
+        const fileInput = document.getElementById('audioFile');
+        const playBtn = document.getElementById('playBtn');
+        const status = document.getElementById('status');
+
+        playBtn.addEventListener('click', async () => {
+            const file = fileInput.files[0];
+            if (!file) {
+                status.textContent = 'Please select an audio file.';
+                return;
+            }
+
+            playBtn.disabled = true;
+            status.textContent = 'Loading...';
+
+            try {
+                if (audio) {
+                    audio.pause();
+                    URL.revokeObjectURL(audio.src);
+                }
+
+                audio = new Audio(URL.createObjectURL(file));
+                audio.loop = true;
+
+                if (!audioContext) {
+                    audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                }
+                await audioContext.resume();
+
+                source = audioContext.createMediaElementSource(audio);
+                analyser = audioContext.createAnalyser();
+                analyser.fftSize = 512;
+                dataArray = new Uint8Array(analyser.frequencyBinCount);
+
+                source.connect(analyser);
+                analyser.connect(audioContext.destination);
+
+                await audio.play();
+                status.textContent = 'Playing! Rotate and zoom with mouse.';
+                playBtn.textContent = 'Stop';
+                playBtn.disabled = false;
+            } catch (err) {
+                status.textContent = 'Error: ' + err.message;
+                playBtn.disabled = false;
+            }
+        });
+
+        // Toggle play/stop
+        playBtn.addEventListener('click', () => {
+            if (audio && !audio.paused) {
+                audio.pause();
+                playBtn.textContent = 'Load & Play';
+                status.textContent = 'Paused';
+            }
+        });
+
+        // Resize
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+
+        // Animate
+        function animate() {
+            requestAnimationFrame(animate);
+
+            if (analyser && dataArray) {
+                analyser.getByteFrequencyData(dataArray);
+
+                const vertices = sphere.geometry.attributes.position.array;
+                const colors = sphere.geometry.attributes.color.array;
+
+                for (let i = 0; i < positionCount; i++) {
+                    const vertexIndex = i * 3;
+                    const origX = positions[vertexIndex];
+                    const origY = positions[vertexIndex + 1];
+                    const origZ = positions[vertexIndex + 2];
+
+                    // Map Y (-1 to 1) to frequency index (0 to binCount-1)
+                    const u = (origY + 1) / 2;
+                    const freqIndex = Math.floor(u * (dataArray.length - 1));
+                    const amp = dataArray[freqIndex] / 255 * 0.8; // Max displacement 80%
+
+                    // Displace radially
+                    vertices[vertexIndex] = origX * (1 + amp);
+                    vertices[vertexIndex + 1] = origY * (1 + amp);
+                    vertices[vertexIndex + 2] = origZ * (1 + amp);
+
+                    // Vertex color based on amplitude
+                    const hue = amp * 0.3;
+                    const color = new THREE.Color().setHSL(hue, 1, 0.5);
+                    colors[vertexIndex] = color.r;
+                    colors[vertexIndex + 1] = color.g;
+                    colors[vertexIndex + 2] = color.b;
+                }
+
+                sphere.geometry.attributes.position.needsUpdate = true;
+                sphere.geometry.attributes.color.needsUpdate = true;
+                sphere.geometry.computeVertexNormals();
+            }
+
+            sphere.rotation.y += 0.005;
+            sphere.rotation.x += 0.002;
+
+            controls.update();
+            renderer.render(scene, camera);
+        }
+
+        animate();
+    </script>
+</body>
+</html>
+```
+
+## Features
+- **Single HTML file**: Self-contained with Three.js via CDN.
+- **File Input**: Select any audio file (MP3, WAV, etc.).
+- **3D Sphere Mesh**: High-detail `SphereGeometry(2, 64, 32)` with ~6k vertices.
+- **Audio Visualization**:
+  - Radial displacement of vertices based on frequency data (low freq bottom, high top).
+  - Vertex colors shift hue (blue-low to red-high) with amplitude.
+- **Controls**: OrbitControls for mouse drag/zoom/pan.
+- **Auto-rotate**: Slow sphere rotation.
+- **Play/Loop**: Loads, plays, loops audio; toggle stop.
+- **Responsive**: Fullscreen, resizes on window change.
+- **UI**: Overlay with status.
+- **Performance**: Dynamic position/color updates, vertex normals recomputed each frame (smooth on modern hardware).

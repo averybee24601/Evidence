@@ -1,0 +1,7 @@
+{
+  "name": "AI Evidence Companion",
+  "description": "An intelligent assistant to help review and understand multimedia evidence related to workplace dynamics, objectively and safely. Upload photos, videos, or record audio, and chat with an AI to analyze and interpret the content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

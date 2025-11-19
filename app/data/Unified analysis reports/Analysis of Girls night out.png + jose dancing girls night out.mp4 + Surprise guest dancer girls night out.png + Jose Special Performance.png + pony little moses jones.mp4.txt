@@ -1,0 +1,75 @@
+=====================================
+Files: Girls night out.png + jose dancing girls night out.mp4 + Surprise guest dancer girls night out.png + Jose Special Performance.png + pony little moses jones.mp4
+File Paths:
+- [1] app/data/analyzed files/Girls night out.png
+- [2] app/data/analyzed files/jose dancing girls night out.mp4
+- [3] app/data/analyzed files/Surprise guest dancer girls night out.png
+- [4] app/data/analyzed files/Jose Special Performance (2).png
+- [5] app/data/analyzed files/pony little moses jones (2).mp4
+Analysis Date: 2025-11-16T01:23:48.332Z
+-------------------------------------
+Summary:
+
+This collection of social media posts and videos demonstrates a pattern of Brewability management publicly promoting and featuring Jose, an employee with Down syndrome, as a special performer in sexually suggestive contexts. Evidence shows Jose performing lap-dance style routines and appearing as a 'guest dancer' at an event involving professional male strippers, directly corroborating the user's testimony regarding the sexual exploitation of a vulnerable adult.
+
+New Findings Summary:
+This evidence newly establishes that Jose's sexualized performances were not just internal incidents but were actively and publicly marketed by Brewability through its social media channels. He was advertised as a 'surprise guest dancer' for a male stripper show and a 'special performance' for other events, formalizing his role as sexualized entertainment.
+
+Confidence Score: 98%
+Severity Score: 9.2
+Children Detected: No
+
+Key Observations:
+- [N/A] In file 'Surprise guest dancer girls night out.png', a Brewability & Pizzability Facebook post from September 26, 2022, advertises a ticketed 'Girls Night Out The Show' event, explicitly promising a 'surprise guest dancer!!!'.
+- [N/A] In file 'Girls night out.png', a public Facebook post thanks Jose for being a 'guest dancer' at what appears to be the 'Girls Night Out' event. The post includes the hashtag '#stripperlife' and features photos of Jose posing with several shirtless male performers.
+- [00:00:01] In video 'jose dancing girls night out.mp4', Jose is shown wearing a padded muscle shirt, consistent with attire seen in previous evidence ('Magic mike Jose.mp4', 'photo_three_people_holiday_costumes_suggestive.png').
+- [00:00:04] In video 'jose dancing girls night out.mp4', Jose performs a suggestive dance routine with female patrons while shirtless male performers stand in the background, confirming the context of the 'Girls Night Out' event.
+- [N/A] In file 'Jose Special Performance.png', a Brewability Facebook post from May 20, 2023, advertises an event featuring a 'special performance from Jose,' indicating this is a recurring and promoted role for him.
+- [00:00:02] In video 'pony little moses jones.mp4', Jose performs a lap dance on a seated individual to the sexually explicit song 'Pony' by Ginuwine. The performance includes pelvic thrusting and close physical contact.
+- [00:00:13] In video 'pony little moses jones.mp4', Jose concludes his performance by doing push-ups on the floor, a move often associated with male stripper routines.
+
+Timeline Events:
+- [N/A] Brewability's Facebook page promotes a 'Girls Night Out The Show' event for September 27, 2022, mentioning a 'surprise guest dancer'. (File: Surprise guest dancer girls night out.png) (Subjects: Jose)
+- [N/A] Following the 'Girls Night Out' event, a patron posts photos publicly thanking Jose for being the 'guest dancer' and posing with the show's male performers. (File: Girls night out.png) (Subjects: Jose, Tiffany)
+- [00:00:00] Jose performs a suggestive dance with female patrons at the 'Girls Night Out' event. (File: jose dancing girls night out.mp4) (Subjects: Jose)
+- [N/A] Brewability's Facebook page promotes a 'special performance from Jose' for an event on May 20, 2023. (File: Jose Special Performance.png) (Subjects: Jose)
+- [00:00:00] Jose performs a lap dance routine to the song 'Pony' for a seated patron. (File: pony little moses jones.mp4) (Subjects: Jose)
+
+Cross-References:
+- File "Magic mike Jose.mp4": The performances in 'jose dancing girls night out.mp4' and 'pony little moses jones.mp4' are consistent with the 'Magic Mike' style lap dance seen in 'Magic mike Jose.mp4'. The use of the same padded muscle shirt across multiple videos establishes a clear pattern of a recurring, sexualized costume for a vulnerable employee.
+- File "User Testimony": This batch of evidence directly corroborates the user's testimony that Jose is coerced into performing 'Magic Mike' style dirty dancing routines and is being sexualized. The public promotion of him as a 'special performance' and 'guest dancer' for a stripper show validates the user's claim of exploitation.
+- File "IMG_5271.MOV": The audio file 'IMG_5271.MOV' captured Tiffany Fixter planning for Jose to perform for a minor. This batch of videos provides a visual representation of the exact type of sexualized performance she was planning, reinforcing the profound lack of judgment and safeguarding.
+- File "video_unauthorized_youtube_footage.mp4": Like the promotional video 'video_unauthorized_youtube_footage.mp4', which showed a lap dance, this evidence demonstrates a continued pattern of recording and publicizing Jose's sexualized performances.
+- File "photo_three_people_holiday_costumes_suggestive.png": The padded muscle suit worn by Jose in 'jose dancing girls night out.mp4' is the same or similar to the one seen under his elf costume in the holiday photo, indicating this is a standard, recurring part of his performance attire.
+
+Emotional Analysis:
+- Amusement / Excitement: In the video 'jose dancing girls night out.mp4', the female patrons dancing with Jose appear to be smiling, laughing, and actively participating in the performance.
+- Uncertain / Performative: Jose's facial expression during the performances in both videos ('jose dancing girls night out.mp4', 'pony little moses jones.mp4') is focused and includes some smiling. However, given the user's testimony of coercion, it is not possible to determine if his apparent engagement is genuine or a result of pressure to perform.
+
+Recognized Employees:
+- Jose (at N/A) - 100%
+- Jose (at 00:00:01) - 100%
+
+Potential Violations:
+- Exploitation of a vulnerable adult
+- Failure in Duty of Care
+- Creating a hostile and sexualized work environment
+- Psychological abuse
+
+Full Transcript:
+File: Girls night out.png (Image)
+Text: 'Here's a few more photos from lastnight I'll just say Jose did an awesome job and the guys were happy to have him as a guest dancer 😉 I'm not going to upload his actual performance maybe later ( i didn't get the best angle lol ) . I'll just say u should've been there 😉 thanks again Tiffany and the brewability staff for always supporting our Jose #stripperlife'
+
+File: jose dancing girls night out.mp4 (Video)
+Transcript: [Music and indistinct crowd chatter]
+
+File: Surprise guest dancer girls night out.png (Image)
+Text: 'Brewability & Pizzability - We will be open to the public 4-7, then close in preparation for the ticketed event Girls Night Out The Show 8-10:30! We will have a surprise guest dancer!!! Don't miss it! ❤️'
+
+File: Jose Special Performance.png (Image)
+Text: 'Brewability & Pizzability - Tonight!!!!! Dear Marsha, 6:30-9:30 with a special performance from Jose!'
+
+File: pony little moses jones.mp4 (Video)
+Transcript: [Music: 'Pony' by Ginuwine plays throughout]
+
+=====================================

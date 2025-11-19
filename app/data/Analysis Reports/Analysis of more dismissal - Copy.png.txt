@@ -1,0 +1,59 @@
+=====================================
+File Name: more dismissal - Copy.png
+File Path: app/data/analyzed files/more dismissal - Copy.png
+Analysis Date: 2025-11-07T16:01:02.039Z
+-------------------------------------
+Summary:
+
+This report analyzes a text message conversation between Avery and Tiffany regarding shift scheduling and concerns about fairness. Avery expresses frustration over a less senior employee, Juliana, being offered weekend shifts that Avery has consistently worked for five years, while Tiffany attributes shift cuts to slow business and asserts her managerial authority over scheduling decisions, offering an ultimatum about discussing shifts with a coworker.
+
+New Findings Summary:
+This file reveals Tiffany's direct, assertive, and somewhat dismissive communication style when addressing Avery's scheduling concerns, including an ultimatum about negotiating shifts with a coworker and denial of unfairness, building on previous patterns of communication and perceived favoritism.
+
+Confidence Score: 95%
+Severity Score: 5
+Children Detected: No
+
+Key Observations:
+- [N/A] Avery expresses feeling it is 'unfair' that a coworker with 'significantly less time' (Juliana) is involved in discussions about taking weekend shifts Avery has worked for five years (from text.png).
+- [N/A] Avery states that scheduling should be management's decision and not left to employees to discuss amongst themselves (from text.png).
+- [N/A] Tiffany states, 'I am not cutting shifts based on seniority' (from more dismissal - Copy.png).
+- [N/A] Tiffany asserts, 'Friday and Saturday nights are not "your shifts" as both of you work them,' which may be perceived as demeaning given Avery's long tenure on those shifts (from more dismissal - Copy.png).
+- [N/A] Tiffany reasserts her authority, stating 'You said making changes to the schedule is my decision, and you're right, it is, and I am making the decision to cut both of you by one weekend night,' appearing to use Avery's own words against them (from more dismissal - Copy.png).
+- [N/A] Tiffany issues an ultimatum: 'Being unwilling to talk to your coworker about what night you prefer will make me remove that option and I will just put you on Saturday nights' (from more dismissal - Copy.png).
+- [N/A] Tiffany expresses 'I'm sorry you feel its unfair' rather than acknowledging or validating Avery's feeling as legitimate, which can be perceived as dismissive (from more dismissal - Copy.png).
+- [N/A] Tiffany states that Juliana will not be working Thursdays, providing a specific scheduling detail (from more dismissal - Copy.png).
+- [N/A] Tiffany explains that shift cuts are temporary 'until sales go back to normal' and due to being 'way over staffed' (from more dismissal - Copy.png and consistent with past evidence).
+
+Timeline Events:
+- [N/A] On January 19, 2024, at 9:10 AM, Avery texts Tiffany expressing concern about Juliana being involved in weekend shift discussions. (Subjects: Avery, Tiffany, Juliana)
+- [N/A] On January 19, 2024, at 12:44 PM, Tiffany replies to Avery, confirming shift cuts due to slow business and asserting her scheduling authority. (Subjects: Tiffany, Avery)
+- [N/A] Tiffany states that Avery and Juliana will both have one weekend night cut. (Subjects: Tiffany, Avery, Juliana)
+- [N/A] Tiffany informs Avery that Juliana will not be working Thursdays. (Subjects: Tiffany, Juliana)
+
+Cross-References:
+- File "text.png": Avery's initial concerns in 'text.png' regarding shift fairness and management's role in scheduling are directly addressed by Tiffany in 'more dismissal - Copy.png'.
+- File "text 2 dismissive attitude - Copy.png (past evidence)": The current conversation expands on the issues of shift cuts and perceived favoritism discussed in the prior analysis of 'text 2 dismissive attitude - Copy.png', which also referenced Avery's frustration about Juliana receiving shifts.
+- File "894d53ac-6d80-4a44-9d8a-ddf47c67d431.jpg (past evidence)": Tiffany's dismissive communication style and implied shifting of responsibility to employees for scheduling, as observed in 'more dismissal - Copy.png', aligns with the 'dismissive attitude' noted in the past analysis where Tiffany addressed Avery as 'Pam'.
+- File "User's Testimony": Tiffany's denial of cutting shifts based on seniority while simultaneously giving an ultimatum about negotiating shifts, and her 'I'm sorry you feel it's unfair' comment, reflects the pattern of 'inconsistent enforcement of political expression and morality standards' and perceived favoritism described in the user's testimony.
+
+Emotional Analysis:
+- Frustration: Avery's repeated questioning of fairness and concern over Juliana getting shifts in 'text.png'.
+- Assertiveness: Tiffany's direct statements regarding her decision-making and policies ('I am making the decision', 'Friday and Saturday nights are not "your shifts") in 'more dismissal - Copy.png'.
+- Dismissiveness: Tiffany's phrase 'I'm sorry you feel its unfair' in 'more dismissal - Copy.png', which shifts focus from the issue's fairness to Avery's perception of it.
+- Coercion/Manipulation: Tiffany's ultimatum: 'Being unwilling to talk to your coworker about what night you prefer will make me remove that option and I will just put you on Saturday nights,' which places undue pressure on Avery and could strain coworker relationships (from more dismissal - Copy.png).
+
+Recognized Employees:
+- Tiffany Fixter (at N/A) - 99%
+- Avery Becker (at N/A) - 99%
+- Juliana (at N/A) - 90%
+
+Potential Violations:
+- Workplace Harassment (indirect through creating hostile environment)
+- Unfair Labor Practices (inconsistent policy application, potential retaliation for expressing concerns)
+- Managerial Misconduct (passive-aggressive communication, undermining employee concerns, creating conflict between employees)
+
+Full Transcript:
+Avery (Jan 19, 2024 at 9:10 AM): Hey Tiffany, I just wanted to write you because I just got a text from Juliana. She told me you asked her to discuss with me, what day of the week this weekend I wanted to work. I just wanted to express my feelings about this, as it has happened multiple times. I feel like this is unfair because I've been working for the last five years these same shifts, and am questioning why I need to choose between the two nights, so somebody who has been there significantly less time than me, can take one of them, from me. I only work three nights a week and they're really important to me. I'm ok this week taking off Saturday but I don't want to have to continually take off one of the nights each weekend. I understand that it is slow, but we have gone through many seasons like this, and I have always worked the same shifts. I also feel, that matters such as scheduling is my decision, and people should not be taking it into their own hands, discussing amongst each other who will work which day, especially if I am unaware if it is true that she was asked to do so. I hope you understand. Tiffany (Jan 19, 2024 at 12:44 PM, message 1): Tuesday, Juliana Wednesday, Thursday and Friday during the day or Saturday, and me during the nights. Tiffany (Jan 19, 2024 at 12:44 PM, message 2): I am not cutting shifts based on seniority. Friday and Saturday nights are not "your shifts" as both of you work them. You said making changes to the schedule is my decision, and you're right, it is, and I am making the decision to cut both of you by one weekend night. Being unwilling to talk to your coworker about what night you prefer will make me remove that option and I will just put you on Saturday nights. And no, Juliana will not be working Thursdays. Again, everyone is getting cut and it's not all fair to cut everyone's shifts but not yours. I can talk to you tonight about what the 2024 plan is and why. I'm sorry you feel its unfair, I am trying to be fair to everyone as much as possible while maintaining operations. Friday and Saturday days are already covered, so that will not work unless there is a large party. Once again, this is temporary until sales go back to normal. I have private event dates I will discuss with you.
+
+=====================================

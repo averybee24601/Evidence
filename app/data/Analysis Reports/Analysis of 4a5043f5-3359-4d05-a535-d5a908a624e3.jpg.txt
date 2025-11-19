@@ -1,0 +1,56 @@
+=====================================
+File Name: 4a5043f5-3359-4d05-a535-d5a908a624e3.jpg
+File Path: app/data/analyzed files/4a5043f5-3359-4d05-a535-d5a908a624e3.jpg
+Analysis Date: 2025-11-07T15:41:46.903Z
+-------------------------------------
+Summary:
+
+The primary file displays a text message from the user to Tiffany expressing frustration about feeling unappreciated and overlooked for scheduling and hours. The user notes that newer employees and even individuals not working at Brewability, such as Juliana and Nicole, are called for extra shifts over them. The partner file shows Tiffany's response, which addresses the user as "Pam" (the user's mother) and gives a dismissive explanation about being busy, without directly addressing the user's core concern about unequal scheduling.
+
+New Findings Summary:
+This file provides direct evidence of the user's communication with management regarding concerns about unequal scheduling and favoritism, along with a dismissive response from Tiffany, who addresses the user by their mother's name.
+
+Confidence Score: 95%
+Severity Score: 6
+Children Detected: No
+
+Key Observations:
+- [N/A] The user communicates feeling unappreciated and overlooked regarding scheduling and work hours, stating, "Lately, I've been feeling kind of unappreciated... I feel as if I am overlooked as far as scheduling, and hours go."
+- [N/A] The user observes that "a lot of employees who have come long after me, have gotten more hours than me, and get called in to be asked to help when it is busy, and I do not."
+- [N/A] The user explicitly names Juliana, Stephanie, Rachel, and Nicole as examples of individuals, some of whom "don't work there," who are called for shifts before them.
+- [N/A] The user asks for a reason for this perceived discrepancy, stating, "I was just wondering if there was any reason for that and just wanted to let you know how I felt about that, and I am happy to come in anytime you need me."
+- [N/A] The user sends a clarifying message, "what I meant to say was there a reason you choose to call others in over me?"
+- [N/A] Tiffany's response, visible in the partner file, begins with "Pam, no.", addressing the user by their mother's name.
+- [N/A] Tiffany's response continues with a dismissive explanation: "I'm making dough. I have a group in at 3. Everyone's schedules are the same except for mine because I AM COOKING."
+
+Timeline Events:
+- [N/A] User sends a text message to Tiffany expressing frustration about unequal scheduling and feeling overlooked. (Subjects: Unknown)
+- [N/A] User sends a clarifying text message to Tiffany. (Subjects: Unknown)
+- [Mar 20, 2023 at 11:09 AM] Tiffany responds to the user's message, addressing the user as "Pam" and providing a brief, dismissive explanation. (Subjects: Tiffany Fixter)
+
+Cross-References:
+- File "User's Testimony": The user's concerns about feeling overlooked for hours and scheduling in this text message directly align with their testimony regarding "Unfair and Arbitrary Tip Distribution to Volunteers and Favorites" and "Encouragement of Alcohol Use and Favoritism Toward Disabled Employees," suggesting a pattern of unequal treatment.
+- File "User's Testimony": Tiffany's response addressing the user as "Pam" (the user's mother) corroborates the user's testimony and additional instructions that Tiffany 'referred to ME as if it were my mom texting her,' implying the user lacks independent agency.
+- File "User's Testimony": The mention of 'Juliana' and 'Nicole' in the user's message as employees called for shifts over them connects to the user's testimony mentioning 'Juliana, Britain, and Nicole' in the context of a 'pattern' Tiffany cited when discussing the user's mother.
+- File "894d53ac-6d80-4a44-9d8a-ddf47c67d431.jpg": This partner file completes the conversation initiated in the primary file by showing Tiffany's response to the user's concerns.
+
+Emotional Analysis:
+- Frustration: User's message content: 'something that has been kind of frustrating me for awhile now,' and 'I've been feeling kind of unappreciated... I feel as if I am overlooked.'
+- Feeling Dismissed: Tiffany's response beginning 'Pam, no.' and the user's interpretation that 'she was implying i am too stupid, voiceless, and lack the back bone to stand up for myself.'
+- Defensiveness: Tiffany's general explanation of being busy ('I'm making dough. I have a group in at 3. Everyone's schedules are the same except for mine because I AM COOKING.') rather than addressing the specific concern about unequal call-ins.
+
+Recognized Employees:
+- Tiffany Fixter (at N/A) - 95%
+- Juliana (at N/A) - 80%
+- Nicole (at N/A) - 80%
+
+Potential Violations:
+- Inconsistent application of workplace policies (scheduling)
+- Favoritism
+- Disrespectful communication (addressing employee by caregiver's name)
+- Emotional manipulation (as perceived by the user)
+
+Full Transcript:
+User: Hey Tiffany, I just wanted to talk to you about something that has been kind of frustrating me for awhile now. Lately, I've been feeling kind of unappreciated. Not verbally, I feel my work has been appreciated when I am there, and you have been expressing that, it's more in the sense that I feel as if I am overlooked as far as scheduling, and hours go. And In the sense, a lot of employees who have come long after me, have gotten more hours than me, and get called in to be asked to help when it is busy, and I do not. I am wondering, is there something that I did wrong that makes you not want to ask me to work more shifts, or call me on those days you need an extra person? It feels as if Julianna, Stephanie or Rachel, or even Nicole and people who don't work there called even before me. Idk, I guess I was just wondering if there was any reason for that and just wanted to let you know how I felt about that, and I am happy to come in anytime you need me. User: The end came out wrong, what I meant to say was there a reason you choose to call others in over me? Tiffany: Pam, no. I'm making dough. I have a group in at 3. Everyone's schedules are the same except for mine because I AM COOKING.
+
+=====================================

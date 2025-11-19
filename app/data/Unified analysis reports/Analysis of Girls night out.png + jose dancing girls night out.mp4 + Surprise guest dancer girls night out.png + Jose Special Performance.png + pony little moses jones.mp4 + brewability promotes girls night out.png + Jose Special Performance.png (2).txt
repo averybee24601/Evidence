@@ -1,0 +1,77 @@
+=====================================
+Files: Girls night out.png + jose dancing girls night out.mp4 + Surprise guest dancer girls night out.png + Jose Special Performance.png + pony little moses jones.mp4 + brewability promotes girls night out.png + Jose Special Performance.png
+File Paths:
+- [1] app/data/analyzed files/Girls night out.png
+- [2] app/data/analyzed files/jose dancing girls night out.mp4
+- [3] app/data/analyzed files/Surprise guest dancer girls night out.png
+- [4] app/data/analyzed files/Jose Special Performance (2).png
+- [5] app/data/analyzed files/pony little moses jones (2).mp4
+- [6] app/data/analyzed files/brewability promotes girls night out.png
+- [7] app/data/analyzed files/Jose Special Performance.png
+Analysis Date: 2025-11-16T01:54:25.470Z
+-------------------------------------
+Summary:
+
+This collection of evidence demonstrates a pattern of Brewability management actively promoting, facilitating, and publicly celebrating sexually suggestive performances by Jose, an employee with Down syndrome. Social media posts from Brewability advertise Jose as a 'special performance' and a 'surprise guest dancer' at an event featuring a professional male stripper revue. Video evidence captures Jose performing lap-dance style routines, including one set to the song 'Pony', and dancing in a padded muscle suit at the 'Girls Night Out' stripper event.
+
+New Findings Summary:
+This evidence provides direct proof that Jose's sexualized performances were not isolated incidents but were officially promoted and normalized by Brewability on public social media platforms. It explicitly links his performances to a professional stripper show, framing his participation as a planned and celebrated part of the event.
+
+Confidence Score: 98%
+Severity Score: 9.2
+Children Detected: No
+
+Key Observations:
+- [N/A] A Facebook post from Brewability's official page on September 26, 2022, promotes a 'Girls Night Out The Show' event, which is a male stripper revue. The post states, 'We will have a surprise guest dancer!!! Don't miss it!', implying a planned performance in conjunction with the show. (File: brewability promotes girls night out.png, Surprise guest dancer girls night out.png)
+- [N/A] A public Facebook post from a patron includes multiple photos of Jose posing with shirtless male performers from the 'Girls Night Out' show. The caption reads, 'Here’s a few more photos from lastnight I’ll just say Jose did an awesome job and the guys were happy to have him as a guest dancer... thanks again Tiffany and the brewability staff for always supporting our Jose #stripperlife'. (File: Girls night out.png)
+- [00:00:01] Jose is seen dancing on a wooden floor in a dimly lit, purple-hued room, wearing a padded muscle suit. Several women are dancing with and around him, while shirtless male performers are visible in the background. (File: jose dancing girls night out.mp4)
+- [00:00:15] Jose performs a lap dance on a seated individual, with movements including pelvic thrusting in close proximity to the person's back and legs. The performance is set to the song 'Pony' by Ginuwine, which is lyrically explicit. (File: pony little moses jones.mp4)
+- [00:00:27] Jose concludes the 'Pony' routine by performing push-ups on the floor in front of the seated individual, consistent with tropes from male stripper performances. (File: pony little moses jones.mp4)
+- [N/A] A Facebook post from Brewability's page on May 20, 2023, advertises a musical act and includes the text, 'Tonight!!!!!!... with a special performance from Jose!'. This indicates his performances are a recurring, promoted feature. (File: Jose Special Performance.png)
+
+Timeline Events:
+- [N/A] Brewability's Facebook page promotes the 'Girls Night Out The Show' event, advertising a 'surprise guest dancer'. The date of the post is September 26, 2022, for an event on September 27, 2022. (Subjects: Jose)
+- [00:00:00-00:00:16] Jose, wearing a padded muscle suit, dances at the 'Girls Night Out' event with patrons and professional performers. (Subjects: Jose)
+- [N/A] A patron posts photos from the 'Girls Night Out' event, showing Jose with the performers and thanking Tiffany and Brewability for their support. (Subjects: Jose, Tiffany Fixter)
+- [N/A] Brewability's Facebook page promotes a musical event on May 20, 2023, advertising a 'special performance from Jose!'. (Subjects: Jose)
+- [00:00:00-00:00:30] Jose performs a lap dance routine to the song 'Pony' for a seated patron at Brewability. (Subjects: Jose)
+
+Cross-References:
+- File "User Testimony": This evidence directly corroborates the user's testimony that Tiffany coerces Jose into performing 'Magic Mike'–style dirty dancing routines. The files show this is not only occurring but is publicly promoted by the business.
+- File "Magic mike Jose.mp4": The performances in 'jose dancing girls night out.mp4' and 'pony little moses jones.mp4' are consistent with the lap dance shown in 'Magic mike Jose.mp4', establishing a clear and recurring pattern of having Jose perform sexualized routines.
+- File "photo_three_people_holiday_costumes_suggestive.png": The padded muscle suit worn by Jose in 'jose dancing girls night out.mp4' is the same or similar to the one seen in this previous photo, indicating it is a recurring costume used for these performances.
+- File "video_unauthorized_youtube_footage.mp4": This previous video also showed Jose performing a lap dance. The new evidence demonstrates that such performances are not just isolated incidents but are actively advertised as entertainment by Brewability.
+- File "IMG_5271.MOV": The conversation in this previous audio file, where Tiffany Fixter orchestrates Jose's dance for a minor, shows management's direct involvement in planning these performances. The new social media evidence shows the public promotion of these same activities.
+
+Emotional Analysis:
+- Celebratory/Promotional Tone: The social media posts from both Brewability and a patron use positive and enthusiastic language ('surprise guest dancer', 'awesome job', 'always supporting our Jose') to frame Jose's participation in a sexually charged event, indicating a normalization of the behavior.
+- Performative: In the videos, Jose is actively performing dance moves for an audience. In 'pony little moses jones.mp4', his actions are choreographed to the music and directed at a specific individual.
+
+Recognized Employees:
+- Jose (at N/A) - 100%
+- Tiffany Fixter (at N/A) - 95%
+
+Potential Violations:
+- Exploitation of a vulnerable adult
+- Failure in Duty of Care
+- Creating a hostile or abusive work environment
+- Coercion
+- Workplace safeguarding violations
+
+Full Transcript:
+File: brewability promotes girls night out.png / Surprise guest dancer girls night out.png
+Text: [Brewability & Pizzability - Follow] 26 September 2022. Grab your tickets!!!!! We will be open to the public 4-7, then close in preparation for the ticketed event Girls Night Out The Show 8-10:30! We will have a surprise guest dancer!!! Don't miss it! [heart emoji]
+
+File: Girls night out.png
+Text: Here's a few more photos from lastnight I'll just say Jose did an awesome job and the guys were happy to have him as a guest dancer 😉 I'm not going to upload his actual performance maybe later ( I didn't get the best angle lol ) . I'll just say u should've been there 😉 thanks again Tiffany and the brewability staff for always supporting our Jose #stripperlife
+
+File: Jose Special Performance.png
+Text: [Brewability & Pizzability - Follow] 20 May 2023. Tonight!!!!!! Dear Marsha, 6:30-9:30 with a special performance from Jose!
+
+File: jose dancing girls night out.mp4
+[No clear dialogue, music and crowd noise]
+
+File: pony little moses jones.mp4
+[Music: 'Pony' by Ginuwine plays throughout. No clear dialogue.]
+
+=====================================

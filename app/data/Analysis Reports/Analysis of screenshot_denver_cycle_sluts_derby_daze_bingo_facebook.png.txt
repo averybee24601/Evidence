@@ -1,0 +1,45 @@
+=====================================
+File Name: screenshot_denver_cycle_sluts_derby_daze_bingo_facebook.png
+File Path: app/data/analyzed files/screenshot_denver_cycle_sluts_derby_daze_bingo_facebook.png
+Analysis Date: 2025-11-07T06:56:03.595Z
+-------------------------------------
+Summary:
+
+This image displays a Facebook post from "Denver Society of Colorado" promoting a "Derby Daze Bingo" event on May 9th, 2025, hosted at Brewability & Pizzability. The event is organized by "Denver Cycle Sluts" with "Autism Colorado" designated as the 'Charity of the Month', and is explicitly stated to be for ages "21+".
+
+New Findings Summary:
+This file introduces an upcoming event hosted at Brewability by an external organization with a provocative name, explicitly stating an age restriction of 21+, which contrasts with Brewability's 'family-friendly' advertising.
+
+Confidence Score: 95%
+Severity Score: 5
+Children Detected: No
+
+Key Observations:
+- [N/A] The Facebook post advertises a "Derby Daze Bingo" event scheduled for May 9th, 2025, at Brewability & Pizzability.
+- [N/A] The event is hosted by an organization named "Denver Cycle Sluts," whose logo features a pair of red lips.
+- [N/A] The post explicitly states, "This event is 21+," indicating it is restricted to adults, which contrasts with Brewability's public advertisement as a "family-friendly" environment.
+- [N/A] The designated 'Charity of the Month' for this event is "Autism Colorado," with a suggested donation of $10 for bingo cards.
+- [N/A] The text below the post reads "Comment as Avery Becker," indicating Avery Becker's association with the social media account or activity.
+
+Timeline Events:
+- [N/A] Brewability promotes a "Derby Daze Bingo" event organized by "Denver Cycle Sluts" for May 9th, 2025. (Subjects: Unknown)
+
+Cross-References:
+- File "User's Testimony": This event's '21+' age restriction and association with 'Denver Cycle Sluts' corroborates the user's testimony regarding management's promotion of ideologically aligned or adult-themed events (such as drag-queen bingo with adult-themed prizes) despite the establishment's 'family-friendly' branding.
+- File "User's Testimony": The promotion of an event by 'Denver Cycle Sluts' could be seen as an example of inconsistent enforcement of the 'no political messaging' policy, as noted in the user's testimony, where management permits certain ideological expressions while restricting others.
+- File "brewability political ideology promotion.png": The presence of 'Comment as Avery Becker' on this post, similar to the 'brewability political ideology promotion.png' file, further indicates Avery Becker's consistent engagement with Brewability's social media presence and content.
+
+Emotional Analysis:
+None.
+
+Recognized Employees:
+- Avery Becker (at N/A) - 90%
+
+Potential Violations:
+- Inconsistent Application of Workplace Policies (Political/Ideological Expression)
+- Misrepresentation of 'Family-Friendly' Environment (by hosting '21+' adult-themed events)
+
+Full Transcript:
+Pony up and join the Denver Cycle Sluts for bingo and beers! We are asking for a $10 donation for bingo cards to support our charity of the Month: Autism Colorado. Games! Prizes! Performances! We'll have a chance drawing for an amazing basket too! See us at Brewability on South Broadway. Cards will be available at 7:30 PM and our balls drop at 8 PM. Reserve your table/seats early!!! This event is 21+. #ASC - at Brewability & Pizzability.
+
+=====================================

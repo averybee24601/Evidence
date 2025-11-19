@@ -1,0 +1,76 @@
+=====================================
+Files: promotion of inappropriate holiday parties around adults with disabilities.png + ignores concerns.png + promotion of lgbtq propoganda.png + manipulating people into drag shows with charity fundraisers.png + popup queen.png
+File Paths:
+- [1] app/data/analyzed files/promotion of inappropriate holiday parties around adults with disabilities.png
+- [2] app/data/analyzed files/ignores concerns.png
+- [3] app/data/analyzed files/promotion of lgbtq propoganda.png
+- [4] app/data/analyzed files/manipulating people into drag shows with charity fundraisers.png
+- [5] app/data/analyzed files/popup queen.png
+Analysis Date: 2025-11-16T02:16:05.003Z
+-------------------------------------
+Summary:
+
+Brewability & Pizzability actively promotes events with sexually suggestive themes, such as 'Sexy Santa' parties, and various LGBTQ+ events, including drag queen performances and ally mixers. The establishment faces public criticism from a deaf customer regarding its association with a group ('Denver Cycle Sluts') accused of mocking disabilities and causing harm, despite management's stated 'no politics' policy. This collection of evidence highlights a pattern of inconsistent policy enforcement and the promotion of events that may contradict a 'family-friendly' image, raising concerns about inclusivity and respectful conduct within a workplace serving adults with disabilities.
+
+New Findings Summary:
+These files specifically reveal Brewability's promotion of 'Sexy Santa' events, various LGBTQ+ and drag events, and direct public criticism regarding its association with a group accused of mocking disabilities.
+
+Confidence Score: 98%
+Severity Score: 7
+Children Detected: No
+
+Key Observations:
+- [N/A] The Brewability & Pizzability Facebook page posted on December 17, 2022, promoting an event for 'Sexy Santa and Sexy Ms. Claus' with 'Custom Christmas Cans'. The promotional image features a shirtless man in a Santa hat, strategically covered by a red bow.
+- [N/A] The 'Custom Christmas Cans' advertised in the December 17, 2022 post feature an image of an infant or young child on one of the cans.
+- [N/A] A Facebook post by 'Xtian Gtz' (a deaf customer) does not recommend Brewability & Pizzability, stating the venue hosts 'Cycle Sluts,' a group he alleges mocked his disability and contributed to harm. He also links the group to 'ICRME,' an organization he claims minimized and covered up harm.
+- [N/A] The 'Xtian Gtz' post states that Brewability & Pizzability 'continues to host and uplift' individuals involved in harm and that the space feels unsafe for disabled guests.
+- [N/A] An Instagram post from 'brew_ability' on November 15, 2024, promotes a 'trans and nonbinary LGBTQ+ and Ally Mixer' for 6-9 PM at the venue. The accompanying image shows a raised fist with a trans pride flag painted on the wrist.
+- [N/A] A Facebook post from Brewability & Pizzability on November 13, 2024, shares a video featuring the logo for 'DENVER CYCLE SLUTS' (red lips and text). The post tags 'Glitter Goddesses dba DCS'.
+- [N/A] An Instagram post from 'brew_ability' on June 19, 2024, promotes a drag queen event featuring '#Chocolatina and #Lavinia' performing at Brewability. Two individuals in full drag attire are shown, with 'Denver Pride' branding visible in the background.
+- [N/A] The promotional text for the drag event describes the performers as a 'dynamic duo' known for 'singing, dancing and kooky antics'.
+
+Timeline Events:
+- [N/A] Brewability & Pizzability promotes a 'Sexy Santa' themed holiday party and custom cans featuring a child's photo. (Subjects: Unknown)
+- [N/A] A deaf customer, Xtian Gtz, posts a negative review, citing Brewability's association with 'Cycle Sluts' and alleging mockery of his disability. (Subjects: Xtian Gtz)
+- [N/A] Brewability promotes an LGBTQ+ 'Trans and Nonbinary Ally Mixer'. (Subjects: Unknown)
+- [N/A] Brewability shares promotional content for 'DENVER CYCLE SLUTS' via 'Glitter Goddesses dba DCS'. (Subjects: Unknown)
+- [N/A] Brewability promotes a drag queen performance featuring Chocolatina and Lavinia, with Denver Pride branding. (Subjects: Unknown)
+
+Cross-References:
+- File "User's Testimony": The promotion of 'Sexy Santa' events and drag shows corroborates the user's testimony regarding 'Sexually Explicit Conduct During Religious Event' and management 'regularly promot[ing] and host[ing] ideologically aligned events, including LGBTQ+ programming such as drag-queen bingo and family drag-brunches'.
+- File "User's Testimony": The presence of a child's photo on a custom can advertised with 'Sexy Santa' is concerning given the user's testimony about Brewability being advertised as 'family-friendly' while hosting inappropriate events with children present.
+- File "User's Testimony": The negative review from Xtian Gtz regarding 'Cycle Sluts' mocking disabilities directly supports the user's testimony about discrimination, hostile remarks, and the promotion of content/groups that are not truly inclusive or respectful of all individuals, especially those with disabilities.
+- File "User's Testimony": The multiple promotions of LGBTQ+ and drag events (November 15, 2024 Mixer, June 19, 2024 drag show) further reinforce the user's claim of inconsistent enforcement of a 'no politics' policy, as these events represent clear ideological promotion.
+- File "screenshot_denver_cycle_sluts_derby_daze_bingo_facebook.png": The file 'manipulating people into drag shows with charity fundraisers.png' (November 13, 2024) and the 'Xtian Gtz' post cross-reference the previous evidence of 'screenshot_denver_cycle_sluts_derby_daze_bingo_facebook.png' by consistently showing Brewability's association with and promotion of 'Denver Cycle Sluts'.
+- File "brewability political ideology promotion.png": The promotion of LGBTQ+ events (November 15, 2024 Mixer, June 19, 2024 drag show) demonstrates a pattern of ideological promotion, similar to the '24 hour Economic Blackout' in 'brewability political ideology promotion.png', contradicting the stated 'no politics' policy for employees.
+- File "screenshot_denver_pride_checklist_full.png": The 'Denver Pride' branding visible in 'popup queen.png' reinforces the connection to LGBTQ+ events, consistent with the 'Denver Pride Checklist!' in previous evidence.
+- File "User's Testimony": The user's testimony regarding 'AJ, a manager, knowingly asked if I wanted to place LGBTQ+ stickers on my shirt' and 'management regularly promotes and hosts ideologically aligned events, including LGBTQ+ programming' is directly supported by the multiple posts promoting LGBTQ+ events.
+
+Emotional Analysis:
+- Criticism: The Facebook post from 'Xtian Gtz' (ignores concerns.png) explicitly states 'I DO NOT recommend Brewability & Pizzability' and details specific harm and lack of safety for disabled customers.
+- Concern: The review expresses 'Brewability & Pizzability continues to host and uplift the very individuals who were involved in that harm, which makes this space feel unsafe for disabled guests and survivors who just want to enjoy their night without being retraumatized.'
+- Excitement/Promotion: Multiple posts use exclamations and suggestive language ('Sexy Santa and Sexy Ms. Claus tonight!!!', 'Join us at Brewability', 'Enjoy an evening filled with connection and conversation') to encourage attendance at various themed events.
+
+Recognized Employees:
+- Avery Becker (at N/A) - 95%
+
+Potential Violations:
+- Workplace Discrimination
+- Hostile Work Environment
+- Inconsistent Policy Enforcement
+- Exploitation of Vulnerable Individuals (implied by context of overall case)
+- Misrepresentation of Establishment Nature (Family-friendly vs. Adult/Sexual Themes)
+
+Full Transcript:
+promotion of inappropriate holiday parties around adults with disabilities.png: Brewability & Pizzability • Follow 17 December 2022 • Sexy Santa and Sexy Ms. Claus tonight!!! Please join us! Jennifer Dixon Trio @Brewability 6-9 PM! Sat, 17 Dec 2022 Custom Christmas Cans w/ SEXY SANTA & SEXY MISS CLAUS Englewood Kristen was interested Like 8 2 comments Comment Share
+
+ignores concerns.png: Xtian Gtz doesn't recommend Brewability & Pizzability. 13h • I DO NOT recommend Brewability & Pizzability. This venue chooses to host the Cycle Sluts, a group that includes members who mocked my disability and contributed to the harm I've experienced. As a deaf customer, I deserve safety, respect, and accessibility, not to walk into a place that platforms people who ridicule and target disabled individuals. On top of that, these same people are tied to ICRME, an organization that has caused me significant harm and has spent months minimizing, rebranding, and covering up what happened instead of taking accountability. Brewability & Pizzability continues to host and uplift the very individuals who were involved in that harm, which makes this space feel unsafe for disabled guests and survivors who just want to enjoy their night without being retraumatized. Until they stop giving a stage to people who discriminate, mock disabilities, and brush off real harm, I cannot support this establishment. DO NOT support this establishment. Like Comment Share Comment as Avery Becker
+
+promotion of lgbtq propoganda.png: brew_ability Join us at Brewability (3445 S Broadway, Englewood, CO 80113) on Nov. 15 from 6-9 PM for an LGBTQ+ and Ally Mixer! Let's come together to honor and celebrate the trans and nonbinary folks in our lives and the incredible contributions they make to our community. We'll be featuring local organizations and talented #trans and #nonbinary #denverartists so bring some cash to support their work! Pop-up #artists include: @subversivewre
+ds @fortalezajamiliarco @joyasresistanceco Enjoy an evening filled with connection and conversation as we uplift each other in a welcoming atmosphere. Bring your friends, share your stories, and help us create a space of love and support. We can't wait to see you there! Music by @fearlesstone plus we are celebrating 3 birthdays! Join us for a fun night! 52w downtownenglewoodco samandhope Ugh my struggle! It's Caleb's opening night. Sending love wish we could be there. 52w 3 likes Reply 4 comments from Facebook liked by janelgraven and 151 others November 15, 2024
+
+manipulating people into drag shows with charity fundraisers.png: Brewability & Pizzability 13 November at 22:12 • Glitter Goddesses dba DCS • Follow Whoomp! There It Is liked by Janel Graven and 5 others 1 comment
+
+popup queen.png: brew_ability Join thepiequeenofdenver #Chocolatina and #Lavinia tonight at #Brewability from 7-9! They have been performing together for over 15 years at legendary NYC venues including Stonewall Inn, The Duplex and various cabaret rooms. They have also been on the mainstage at Denver Pridefest the past few years. This dynamic duo is sure to get the party started with their singing, dancing and kooky antics! @denverpride #DenverPride liked by janelgraven and 35 others June 19, 2024
+
+=====================================

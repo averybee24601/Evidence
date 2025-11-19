@@ -1,0 +1,65 @@
+=====================================
+File Name: IMG_5271.MOV
+File Path: app/data/analyzed files/IMG_5271.MOV
+Analysis Date: 2025-11-08T02:18:07.349Z
+-------------------------------------
+Summary:
+
+This audio file captures a conversation between Brewability owner Tiffany Fixter and the user, Avery Becker. Tiffany asks Avery to verify the age of an expected visitor, an actress with Down syndrome, who she initially believes to be 13 or 15. Upon learning the visitor is 16, Tiffany instructs Avery to ensure that employee Jose, who also has a disability, dances 'for her, but not on her,' indicating a plan to have him perform a known sexualized routine for a minor.
+
+New Findings Summary:
+This audio provides direct evidence of management (Tiffany Fixter) planning to have an employee with a disability (Jose) perform a sexualized dance routine for a visiting minor who also has a disability. The conversation reveals a reactive, rather than proactive, approach to safeguarding, with concern only being expressed about physical contact after the minor's age was confirmed as 16.
+
+Confidence Score: 95%
+Severity Score: 8.5
+Children Detected: No
+
+Key Observations:
+- [00:01:09] Tiffany Fixter states her belief that the expected visitor, an actress with Down syndrome, is 'like 13 or 15.' This shows her awareness that she was planning an event involving a minor.
+- [00:01:15] Avery Becker confirms to Tiffany that the visitor's age is 16.
+- [00:01:17] Immediately after learning the visitor is 16, Tiffany instructs, 'We need to make sure Jose does not dance ON her.' This directly corroborates the user's testimony that the only concern raised was about the physical act of a lap dance, not the inherent inappropriateness of having Jose perform his 'Magic Mike' style routine for a minor with a disability.
+- [00:01:21] Tiffany clarifies the instruction: 'Like, he can dance for her, but not on her.' This reinforces the plan to proceed with a modified version of the sexualized performance for the 16-year-old visitor.
+
+Timeline Events:
+- [00:01:05] Tiffany Fixter asks Avery Becker to look up information about a visitor. (Subjects: Tiffany Fixter, Avery Becker)
+- [00:01:09] Tiffany states she believes the visitor is a minor (13 or 15 years old). (Subjects: Tiffany Fixter)
+- [00:01:15] Avery Becker confirms the visitor is 16 years old. (Subjects: Avery Becker)
+- [00:01:17] Tiffany gives an instruction to modify Jose's dance performance for the visitor. (Subjects: Tiffany Fixter, Jose)
+
+Cross-References:
+- File "Magic mike Jose.mp4": This audio directly references the sexualized 'Magic Mike' style dance performed by Jose, which is visually documented in 'Magic mike Jose.mp4'. The conversation shows management's active role in planning and directing these performances, even in situations involving minors.
+- File "User Testimony": The conversation almost perfectly matches the user's specific testimony regarding this incident, confirming that Tiffany knew the visitor was a minor and was willing to have Jose perform for her, only altering the plan to prevent direct physical contact after the age was verified.
+
+Emotional Analysis:
+- Casual Indifference: Throughout the conversation from 00:01:05 to 00:01:22, Tiffany's tone is matter-of-fact and conversational, showing no audible alarm or ethical concern about the subject of having an employee perform a sexualized dance for a minor with a disability.
+
+Recognized Employees:
+- Tiffany Fixter (at 00:01:05) - 98%
+- Avery Becker (at 00:01:08) - 98%
+
+Potential Violations:
+- Potential for Child Endangerment
+- Exploitation of a Vulnerable Adult
+- Failure in Duty of Care
+- Unethical Conduct
+
+Full Transcript:
+[Music playing for the first minute]
+
+[00:01:05] Tiffany Fixter: Hey Avery, can you look up the girl from Hunger Games with Down syndrome that's coming?
+
+[00:01:08] Avery Becker: Yeah.
+
+[00:01:09] Tiffany Fixter: I think she's like 13 or 15 but I don't know...
+
+[00:01:13] (Sound of keyboard typing)
+
+[00:01:15] Avery Becker: She's 16.
+
+[00:01:17] Tiffany Fixter: Okay. We need to make sure Jose does not dance ON her.
+
+[00:01:20] Avery Becker: Okay.
+
+[00:01:21] Tiffany Fixter: Like, he can dance for her, but not on her.
+
+=====================================

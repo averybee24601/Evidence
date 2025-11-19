@@ -1,0 +1,45 @@
+=====================================
+File Name: trimmed-Management drinking (3).mp4
+File Path: app/data/analyzed files/trimmed-Management drinking (3).mp4
+Analysis Date: 2025-11-19T18:19:08.514Z
+-------------------------------------
+Summary:
+
+The video footage captures the interior of the Brewability establishment, showing various patrons and staff members. It specifically focuses on a female individual, identified by the user as manager Jess, moving through the venue and subsequently sitting at a table with a male companion where open beverage cans and a glass—consistent with alcoholic drinks—are present.
+
+New Findings Summary:
+This file provides visual corroboration of the user's specific allegation that the manager, Jess, consumes alcohol while present in the workplace. It places her at a table with drinks during what the user claims is her shift, and also confirms the presence of employee Connor in the environment.
+
+Confidence Score: 85%
+Severity Score: 6
+Children Detected: No
+
+Key Observations:
+- [00:00:06] An employee identified as Connor, who uses a wheelchair, is visible in the establishment. This confirms his presence during the recorded timeframe.
+- [00:00:07] A female individual with long blonde hair, identified as manager Jess, is seen standing near the kitchen/service area, appearing to interact with staff or customers.
+- [00:00:12] The same female individual (Jess) is seated at a table across from a male patron. Multiple beverage cans and a glass containing a yellow liquid are visible on the table directly in front of them.
+- [00:00:15] Jess is observed smiling and socializing at the table with the beverages present. This visual evidence aligns with the user's testimony that she was 'drinking on the shift' while responsible for supervising vulnerable adults.
+
+Timeline Events:
+- [00:00:01] View of the bar area with patrons seated and staff moving about. (Subjects: Patrons, Staff)
+- [00:00:06] Connor is seen in his wheelchair in the main seating area. (Subjects: Connor)
+- [00:00:09] Jess walks past the camera, moving from the service area towards the seating area. (Subjects: Jess)
+- [00:00:12] Jess is seated at a table with a male companion; drinks are on the table. (Subjects: Jess, Unidentified Male)
+
+Cross-References:
+- File "User Testimony (Incident Notes)": The observation of a manager (Jess) seated with drinks in the workplace corroborates the user's testimony regarding 'Severe Intoxication of Management' and the specific claim that Jess 'drinks on the shift while interacting with multiple of the employees.'
+- File "User Testimony (General)": The casual consumption of beverages that appear to be alcohol by management in the public area aligns with the testimony regarding 'Illegal Storage and Consumption of Hard Liquor' and a workplace culture that encourages drinking.
+
+Emotional Analysis:
+- Happy/Relaxed: Jess is seen smiling broadly in close-up (approx 00:00:08) and while seated at the table (00:00:15). The male companion is also laughing (00:00:10). This casual demeanor contrasts with the user's concern about lack of supervision.
+
+Recognized Employees:
+- Connor (at 00:00:06) - 95%
+- Jess (at 00:00:07) - 90%
+
+Potential Violations:
+- Workplace Safety (Impaired Supervision)
+- Employee Conduct Policy (Drinking on Duty)
+- Negligence (Duty of Care to Vulnerable Adults)
+
+=====================================

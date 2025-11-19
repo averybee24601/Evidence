@@ -1,0 +1,47 @@
+=====================================
+Files: menu promotion of hard liqour based cocktails.jpg + hard liqour, cocktails spirits.jpg + social media post advertising wine products.jpg
+File Paths:
+- [1] app/data/analyzed files/menu promotion of hard liqour based cocktails.jpg
+- [2] app/data/analyzed files/hard liqour, cocktails spirits.jpg
+- [3] app/data/analyzed files/social media post advertising wine products.jpg
+Analysis Date: 2025-11-19T16:29:10.879Z
+-------------------------------------
+Summary:
+
+This set of three images provides direct visual evidence corroborating allegations of unlicensed alcohol sales and storage at Brewability. The files document a printed menu explicitly listing wine varietals and canned cocktails, a social media post advertising 'warm mulled wine,' and a utility cart in a staff area stocked with bottles of hard liquor (Tequila, Rum) and spirit-based canned drinks. These items fall outside the scope of the alleged beer and malt-only license, supporting claims of regulatory violations.
+
+New Findings Summary:
+This evidence moves beyond testimony to physical proof of hard liquor inventory and sales. It identifies specific brands (Carbliss cocktails made with Tequila,  Grind Espresso Spirit, (for the employees to drink) Cutwater for sale) and menu items (Cabernet, Sauvignon Blanc) that confirm the presence and advertisement of spirits and wine, which contradicts the establishment's stated licensure.
+
+Confidence Score: 95%
+Severity Score: 9
+Children Detected: No
+
+Key Observations:
+- [N/A] In file 'menu promotion of hard liqour based cocktails.jpg', a printed table menu lists a 'Wine' section selling 'White: Sauvignon Blanc', 'Red: Cabernet Sauvignon', and 'Rosé' for $8.50, as well as 'Carbliss' canned cocktails.
+- [N/A] In file 'hard liqour, cocktails spirits.jpg', a utility cart in a storage area contains a bulk box of 'Grind Espresso Shot' (labeled 'Distilled Spirit Specialty with Coffee Beans', 12 x 750 mL), indicating the stocking of rum-based spirits.
+- [N/A] In file 'hard liqour, cocktails spirits.jpg', the same utility cart holds multiple glass bottles of Herradura Tequila (distinguishable by the horseshoe logo) and boxes/cans of 'Cutwater Spirits' (known for spirit-based canned cocktails).
+- [N/A] In file 'social media post advertising wine products.jpg', a Facebook post by 'Brewability & Pizzability' dated November 25, 2023, explicitly states: 'What's better on a cold day than a mug of warm mulled wine... Come down to Brewability tonight'.
+- [N/A] In file 'social media post advertising wine products.jpg', a slow cooker is visible on the bar counter next to an employee, consistent with the preparation of the advertised 'mulled wine'.
+
+Timeline Events:
+- [N/A] Brewability & Pizzability publishes a Facebook post advertising 'warm mulled wine' and a s'mores bar starting at 6 PM. (Subjects: Brewability Management)
+
+Cross-References:
+- File "AQPB6JJPK9NNMEUIOSbPAFG2lbQBwOBsUVCLC6K581gVlL6M3eCuEqXJ0AybMRpv9DnZQPcZHQp0__Ez4HqrD64.mp4": The employee Jorge previously mentioned a 'strawberry daiquiri with rum.' The presence of 'Grind Espresso Spirit' (rum-based) and Herradura Tequila bottles in the utility cart (File: hard liqour, cocktails spirits.jpg) physically corroborates the availability of hard spirits for such mixed drinks.
+- File "User Testimony (Alcohol Licensing Violations)": The user testified that management 'routinely spikes slushie drinks with hard liquor' and serves 'boxed wine.' The utility cart containing open bottles of spirits and the menu listing wine by the glass directly support these specific allegations.
+- File "User Testimony (Illegal Storage)": The user claimed liquor is stored in 'employee work areas.' The image 'hard liqour, cocktails spirits.jpg' shows spirits stored on an open utility cart alongside non-alcoholic supplies, accessible to staff.
+
+Emotional Analysis:
+- N/A: The images are static documentation of objects and menus; they do not capture emotional expressions or tones.
+
+Recognized Employees:
+None.
+
+Potential Violations:
+- Sale of alcohol (wine and distilled spirits) without a valid license
+- Illegal storage of distilled spirits on premises licensed only for beer/malt
+- Workplace safety violations regarding alcohol accessibility to vulnerable employees
+- False advertising or regulatory non-compliance regarding public menu offerings
+
+=====================================
